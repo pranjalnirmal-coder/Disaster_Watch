@@ -1,0 +1,15 @@
+source,title,event_type,location,timestamp,lat,lon,severity
+NASA_EONET,Flood in Thailand 1104169,floods,Flood in Thailand 1104169,2026-10-04T20:00:00Z,,,Moderate
+NASA_EONET,Flood in Mexico 1104191,floods,Flood in Mexico 1104191,2026-10-04T20:00:00Z,,,Moderate
+NASA_EONET,Wildfire in Kazakhstan 1032535,wildfires,Wildfire in Kazakhstan 1032535,2026-10-01T19:00:00Z,50.402964157271,73.692531867058,Moderate
+NASA_EONET,Iceberg A76C,sea and lake ice,Iceberg A76C,2026-10-01T00:00:00Z,-55.41,-25.27,Moderate
+NASA_EONET,Iceberg D32,sea and lake ice,Iceberg D32,2026-10-01T00:00:00Z,-56.49,-38.41,Moderate
+NASA_EONET,Iceberg A83,sea and lake ice,Iceberg A83,2026-10-01T00:00:00Z,-60.77,-52.12,Moderate
+NASA_EONET,Iceberg B22F,sea and lake ice,Iceberg B22F,2026-10-01T00:00:00Z,-67.65,-174.86,Moderate
+NASA_EONET,Flood in Malaysia 1104207,floods,Flood in Malaysia 1104207,2026-09-30T20:00:00Z,,,Moderate
+NASA_EONET,Typhoon Choi-wan,severe storms,Typhoon Choi-wan,2026-10-04T00:00:00Z,22.1,147.1,Moderate
+NASA_EONET,"Wildfire SAN FRANCISCO 2, Starr, Texas",wildfires,Texas,2026-09-30T08:56:00Z,26.286667,-98.692222,Moderate
+NASA_EONET,"Wildfire Hatch Grade, Walla Walla, Washington",wildfires,Washington,2026-09-29T19:50:00Z,46.0322,-118.8588,Moderate
+NASA_EONET,Wildfire in Brazil 1032517,wildfires,Wildfire in Brazil 1032517,2026-09-29T19:00:00Z,-4.2780999366546,-50.78061978406,Moderate
+NASA_EONET,Wildfire in Brazil 1032532,wildfires,Wildfire in Brazil 1032532,2026-09-29T19:00:00Z,-14.398036697701,-51.26669129538,Moderate
+NASA_EONET,Wildfire in Brazil 1032540,wildfires,Wildfire in Brazil 1032540,2026-09-29T19:00:00Z,-11.255682151339,-44.25879134537,Moderate

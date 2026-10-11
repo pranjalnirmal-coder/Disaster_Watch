@@ -1,0 +1,31 @@
+==================================================
+DISASTERWATCH DATA VALIDATION SUMMARY
+==================================================
+Rows in per raw file:
+  - raw_static.csv: 78
+  - raw_dynamic.csv: 38
+  - raw_multipage.csv: 9
+  - raw_usgs.csv: 517
+  - raw_gdacs.csv: 179
+  - raw_paginated.csv: 14
+
+Total records before cleaning: 835
+Rows dropped by validation rule:
+  - Unparseable dates:    3
+  - Duplicate records:    167
+
+Final Master records stored:   668
+Geocoded Coordinates by Quality:
+coord_quality
+exact            544
+approx_region     66
+none              58
+
+Event Type Distribution:
+event_type
+earthquake    614
+flood          20
+wildfire       15
+drought        12
+cyclone         7
+==================================================

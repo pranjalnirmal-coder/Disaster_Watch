@@ -1,0 +1,518 @@
+source,title,location,severity,timestamp,lon,lat,event_type
+USGS,"M 5.0 - 295 km S of Burica, Panama","295 km S of Burica, Panama",5.0,2026-10-04 14:06:10.385000+00:00,-82.7171,5.3695,earthquake
+USGS,"M 4.6 - 110 km S of Dampit, Indonesia","110 km S of Dampit, Indonesia",4.6,2026-10-04 12:36:47.744000+00:00,112.6395,-9.2014,earthquake
+USGS,"M 5.0 - 21 km ESE of Feke, Turkey","21 km ESE of Feke, Turkey",5.0,2026-10-04 11:43:23.167000+00:00,36.1272,37.7292,earthquake
+USGS,"M 4.7 - 22 km E of Feke, Turkey","22 km E of Feke, Turkey",4.7,2026-10-04 11:36:26.451000+00:00,36.1685,37.7757,earthquake
+USGS,"M 4.7 - 21 km SSE of Saimbeyli, Turkey","21 km SSE of Saimbeyli, Turkey",4.7,2026-10-04 11:19:26.314000+00:00,36.1749,37.8028,earthquake
+USGS,"M 5.5 - Volcano Islands, Japan region","Volcano Islands, Japan region",5.5,2026-10-04 11:12:48.270000+00:00,144.6734,22.8286,earthquake
+USGS,"M 4.6 - 121 km SW of Kokopo, Papua New Guinea","121 km SW of Kokopo, Papua New Guinea",4.6,2026-10-04 11:09:47.398000+00:00,151.4257,-5.0439,earthquake
+USGS,"M 4.8 - 43 km N of Ruteng, Indonesia","43 km N of Ruteng, Indonesia",4.8,2026-10-04 10:52:27.344000+00:00,120.5325,-8.2236,earthquake
+USGS,"M 5.0 - 37 km N of Ruteng, Indonesia","37 km N of Ruteng, Indonesia",5.0,2026-10-04 10:13:07.298000+00:00,120.4532,-8.2698,earthquake
+USGS,"M 4.6 - 121 km WNW of Chauk, Burma (Myanmar)","121 km WNW of Chauk, Burma (Myanmar)",4.6,2026-10-04 05:55:06.861000+00:00,93.7503,21.3382,earthquake
+USGS,M 4.9 - South Sandwich Islands region,South Sandwich Islands region,4.9,2026-10-04 01:47:52.030000+00:00,-23.3522,-58.1594,earthquake
+USGS,"M 4.9 - 21 km NE of Lae, Papua New Guinea","21 km NE of Lae, Papua New Guinea",4.9,2026-10-04 01:38:46.078000+00:00,147.1353,-6.5916,earthquake
+USGS,"M 5.3 - 81 km SSW of Banda Aceh, Indonesia","81 km SSW of Banda Aceh, Indonesia",5.3,2026-10-03 23:37:34.235000+00:00,95.1622,4.8247,earthquake
+USGS,"M 4.5 - 293 km SSE of Tabiauan, Philippines","293 km SSE of Tabiauan, Philippines",4.5,2026-10-03 23:14:35.782000+00:00,122.9296,3.5895,earthquake
+USGS,"M 5.9 - 39 km WSW of Tambolaka, Indonesia","39 km WSW of Tambolaka, Indonesia",5.9,2026-10-03 22:55:55.358000+00:00,118.9078,-9.5672,earthquake
+USGS,"M 4.5 - 121 km SW of Puerto Madero, Mexico","121 km SW of Puerto Madero, Mexico",4.5,2026-10-03 20:33:45.577000+00:00,-93.3523,14.1052,earthquake
+USGS,"M 5.1 - 182 km SSE of Vilyuchinsk, Russia","182 km SSE of Vilyuchinsk, Russia",5.1,2026-10-03 20:00:44.104000+00:00,159.8296,51.5457,earthquake
+USGS,"M 4.9 - 72 km NE of Sittwe, Burma (Myanmar)","72 km NE of Sittwe, Burma (Myanmar)",4.9,2026-10-03 18:12:46.916000+00:00,93.3991,20.6061,earthquake
+USGS,"M 4.6 - 76 km NNE of Lae, Papua New Guinea","76 km NNE of Lae, Papua New Guinea",4.6,2026-10-03 17:24:12.545000+00:00,147.1678,-6.0496,earthquake
+USGS,M 4.5 - Kermadec Islands region,Kermadec Islands region,4.5,2026-10-03 13:51:11.299000+00:00,-179.4827,-27.4948,earthquake
+USGS,"M 4.8 - 112 km S of Koshima, Japan","112 km S of Koshima, Japan",4.8,2026-10-03 06:05:21.157000+00:00,130.6125,29.221,earthquake
+USGS,"M 5.0 - 163 km SE of Petropavlovsk-Kamchatsky, Russia","163 km SE of Petropavlovsk-Kamchatsky, Russia",5.0,2026-10-03 02:59:06.296000+00:00,160.4217,52.0836,earthquake
+USGS,"M 4.5 - 7 km NNW of Ibusuki, Japan","7 km NNW of Ibusuki, Japan",4.5,2026-10-03 00:11:38.239000+00:00,130.6093,31.2953,earthquake
+USGS,"M 4.8 - 121 km SSE of Vilyuchinsk, Russia","121 km SSE of Vilyuchinsk, Russia",4.8,2026-10-03 00:01:38.784000+00:00,159.2731,51.9749,earthquake
+USGS,"M 4.6 - 174 km SSE of Vilyuchinsk, Russia","174 km SSE of Vilyuchinsk, Russia",4.6,2026-10-02 23:59:26.824000+00:00,159.7182,51.5846,earthquake
+USGS,"M 4.7 - 153 km SSE of Vilyuchinsk, Russia","153 km SSE of Vilyuchinsk, Russia",4.7,2026-10-02 23:54:13.503000+00:00,159.4679,51.7161,earthquake
+USGS,M 4.6 - southern East Pacific Rise,southern East Pacific Rise,4.6,2026-10-02 22:38:53.650000+00:00,-116.9235,-49.3851,earthquake
+USGS,"M 5.0 - 171 km SE of Vilyuchinsk, Russia","171 km SE of Vilyuchinsk, Russia",5.0,2026-10-02 20:54:15.391000+00:00,159.8843,51.6886,earthquake
+USGS,"M 4.7 - 52 km SSW of Vilyuchinsk, Russia","52 km SSW of Vilyuchinsk, Russia",4.7,2026-10-02 20:38:21.109000+00:00,158.2168,52.4691,earthquake
+USGS,"M 4.6 - 46 km SSW of Paratunka, Russia","46 km SSW of Paratunka, Russia",4.6,2026-10-02 20:37:48.318000+00:00,158.0496,52.5605,earthquake
+USGS,"M 4.5 - 86 km E of Noda, Japan","86 km E of Noda, Japan",4.5,2026-10-02 20:34:56.862000+00:00,142.8232,40.0341,earthquake
+USGS,"M 5.1 - 199 km SSE of Vilyuchinsk, Russia","199 km SSE of Vilyuchinsk, Russia",5.1,2026-10-02 20:27:27.120000+00:00,159.665,51.3149,earthquake
+USGS,"M 4.6 - 67 km ESE of Kokopo, Papua New Guinea","67 km ESE of Kokopo, Papua New Guinea",4.6,2026-10-02 20:26:02.878000+00:00,152.8363,-4.565,earthquake
+USGS,"M 4.9 - 136 km SSE of Vilyuchinsk, Russia","136 km SSE of Vilyuchinsk, Russia",4.9,2026-10-02 20:25:29.894000+00:00,159.3971,51.862,earthquake
+USGS,"M 5.0 - 179 km SSE of Vilyuchinsk, Russia","179 km SSE of Vilyuchinsk, Russia",5.0,2026-10-02 18:25:20.940000+00:00,159.8307,51.5775,earthquake
+USGS,"M 4.5 - 56 km SSE of Mawlaik, Burma (Myanmar)","56 km SSE of Mawlaik, Burma (Myanmar)",4.5,2026-10-02 16:55:33.449000+00:00,94.5469,23.1453,earthquake
+USGS,"M 5.8 - 165 km SSE of Vilyuchinsk, Russia","165 km SSE of Vilyuchinsk, Russia",5.8,2026-10-02 16:34:41.010000+00:00,159.7398,51.6873,earthquake
+USGS,"M 5.0 - 26 km SSW of Güiria, Venezuela","26 km SSW of Güiria, Venezuela",5.0,2026-10-02 16:31:25.762000+00:00,-62.4223,10.3698,earthquake
+USGS,"M 4.6 - 20 km ESE of Petropavlovsk-Kamchatsky, Russia","20 km ESE of Petropavlovsk-Kamchatsky, Russia",4.6,2026-10-02 16:02:10.426000+00:00,158.9242,53.0163,earthquake
+USGS,"M 4.7 - 5 km NNE of Korumburra, Australia","5 km NNE of Korumburra, Australia",4.7,2026-10-02 16:01:39.581000+00:00,145.8401,-38.3802,earthquake
+USGS,"M 4.5 - 7 km NE of Chalandrítsa, Greece","7 km NE of Chalandrítsa, Greece",4.5,2026-10-02 15:26:42.710000+00:00,21.8509,38.1524,earthquake
+USGS,"M 4.8 - 78 km WSW of San Nicolas, Philippines","78 km WSW of San Nicolas, Philippines",4.8,2026-10-02 15:10:19.729000+00:00,119.4593,14.571,earthquake
+USGS,"M 5.0 - 6 km E of Inglewood, New Zealand","6 km E of Inglewood, New Zealand",5.0,2026-10-02 13:57:15.838000+00:00,174.2598,-39.1598,earthquake
+USGS,"M 5.0 - 63 km SW of Panguna, Papua New Guinea","63 km SW of Panguna, Papua New Guinea",5.0,2026-10-02 11:14:14.383000+00:00,155.0136,-6.6368,earthquake
+USGS,"M 4.8 - 35 km SSW of El Colomo, Mexico","35 km SSW of El Colomo, Mexico",4.8,2026-10-02 06:53:35.007000+00:00,-104.3753,18.7561,earthquake
+USGS,"M 4.5 - 101 km NE of Ruteng, Indonesia","101 km NE of Ruteng, Indonesia",4.5,2026-10-02 06:48:06.954000+00:00,121.0985,-7.9511,earthquake
+USGS,"M 4.8 - 192 km WNW of Tobelo, Indonesia","192 km WNW of Tobelo, Indonesia",4.8,2026-10-02 05:38:55.084000+00:00,126.4944,2.5781,earthquake
+USGS,"M 5.1 - 159 km SE of Gizo, Solomon Islands","159 km SE of Gizo, Solomon Islands",5.1,2026-10-02 04:44:53.423000+00:00,158.0215,-8.9326,earthquake
+USGS,M 5.0 - south of the Fiji Islands,south of the Fiji Islands,5.0,2026-10-02 04:27:05.754000+00:00,178.6446,-24.7752,earthquake
+USGS,"M 4.9 - 97 km S of Panguna, Papua New Guinea","97 km S of Panguna, Papua New Guinea",4.9,2026-10-02 04:10:58.487000+00:00,155.6075,-7.1852,earthquake
+USGS,"M 4.7 - 49 km S of Lata, Solomon Islands","49 km S of Lata, Solomon Islands",4.7,2026-10-02 02:02:34.584000+00:00,165.794,-11.1735,earthquake
+USGS,"M 4.5 - 2 km NE of Satte, Japan","2 km NE of Satte, Japan",4.5,2026-10-01 21:01:41.707000+00:00,139.7487,36.0904,earthquake
+USGS,"M 5.1 - 176 km SE of Lata, Solomon Islands","176 km SE of Lata, Solomon Islands",5.1,2026-10-01 20:00:34.322000+00:00,167.0918,-11.6728,earthquake
+USGS,"M 5.1 - 171 km SE of Lata, Solomon Islands","171 km SE of Lata, Solomon Islands",5.1,2026-10-01 19:38:01.795000+00:00,166.961,-11.7706,earthquake
+USGS,"M 4.6 - 83 km NE of Ruteng, Indonesia","83 km NE of Ruteng, Indonesia",4.6,2026-10-01 17:37:11.734000+00:00,120.9009,-7.9896,earthquake
+USGS,"M 5.1 - 108 km ENE of Miyako, Japan","108 km ENE of Miyako, Japan",5.1,2026-10-01 17:17:20.097000+00:00,143.1734,39.8778,earthquake
+USGS,"M 4.8 - 127 km S of False Pass, Alaska","127 km S of False Pass, Alaska",4.8,2026-10-01 14:46:19.877000+00:00,-163.7238,53.7226,earthquake
+USGS,"M 5.0 - 176 km NNE of Ruteng, Indonesia","176 km NNE of Ruteng, Indonesia",5.0,2026-10-01 14:19:59.078000+00:00,120.9136,-7.0805,earthquake
+USGS,"M 5.3 - 0 km NNE of Yōkaichiba, Japan","0 km NNE of Yōkaichiba, Japan",5.3,2026-10-01 12:27:11.864000+00:00,140.5507,35.7025,earthquake
+USGS,M 4.7 - northern Mid-Atlantic Ridge,northern Mid-Atlantic Ridge,4.7,2026-10-01 10:03:15.128000+00:00,-41.428,31.0444,earthquake
+USGS,"M 4.9 - 145 km ESE of Neiafu, Tonga","145 km ESE of Neiafu, Tonga",4.9,2026-10-01 08:45:44.312000+00:00,-172.7038,-19.141,earthquake
+USGS,"M 4.5 - 49 km SSE of Toktogul, Kyrgyzstan","49 km SSE of Toktogul, Kyrgyzstan",4.5,2026-10-01 08:17:59.307000+00:00,73.1419,41.4538,earthquake
+USGS,M 4.6 - northern Mid-Atlantic Ridge,northern Mid-Atlantic Ridge,4.6,2026-10-01 07:40:06.605000+00:00,-41.5851,31.2357,earthquake
+USGS,"M 5.0 - 38 km WSW of Palimbang, Philippines","38 km WSW of Palimbang, Philippines",5.0,2026-10-01 05:34:10.634000+00:00,123.8599,6.1116,earthquake
+USGS,"M 4.5 - 272 km WSW of Tual, Indonesia","272 km WSW of Tual, Indonesia",4.5,2026-10-01 02:09:19.068000+00:00,130.346,-6.154,earthquake
+USGS,"M 4.6 - 45 km ENE of Luwuk, Indonesia","45 km ENE of Luwuk, Indonesia",4.6,2026-10-01 01:31:23.443000+00:00,123.1839,-0.863,earthquake
+USGS,"M 5.2 - 7 km ESE of Baghlān, Afghanistan","7 km ESE of Baghlān, Afghanistan",5.2,2026-10-01 01:29:20.694000+00:00,68.7818,36.0991,earthquake
+USGS,M 4.9 - northern Mid-Atlantic Ridge,northern Mid-Atlantic Ridge,4.9,2026-10-01 00:28:22.644000+00:00,-43.0353,19.2756,earthquake
+USGS,"M 5.6 - 94 km SW of Tamarindo, Costa Rica","94 km SW of Tamarindo, Costa Rica",5.6,2026-09-30 21:55:26.169000+00:00,-86.5063,9.7526,earthquake
+USGS,"M 4.6 - 131 km SE of Itoman, Japan","131 km SE of Itoman, Japan",4.6,2026-09-30 21:11:57.694000+00:00,128.5077,25.2167,earthquake
+USGS,"M 4.9 - 136 km SE of Petropavlovsk-Kamchatsky, Russia","136 km SE of Petropavlovsk-Kamchatsky, Russia",4.9,2026-09-30 18:36:22.667000+00:00,160.2895,52.3676,earthquake
+USGS,"M 5.0 - 142 km SE of Petropavlovsk-Kamchatsky, Russia","142 km SE of Petropavlovsk-Kamchatsky, Russia",5.0,2026-09-30 18:21:19.257000+00:00,160.3332,52.3167,earthquake
+USGS,"M 4.6 - 83 km S of Yonakuni, Japan","83 km S of Yonakuni, Japan",4.6,2026-09-30 12:02:58.808000+00:00,122.8749,23.725,earthquake
+USGS,"M 4.5 - 271 km S of Dunhuang, China","271 km S of Dunhuang, China",4.5,2026-09-30 11:21:31.407000+00:00,95.2949,37.7681,earthquake
+USGS,"M 5.0 - 27 km N of Kupang, Indonesia","27 km N of Kupang, Indonesia",5.0,2026-09-30 10:58:50.586000+00:00,123.6462,-9.9243,earthquake
+USGS,"M 5.1 - 121 km S of Kokopo, Papua New Guinea","121 km S of Kokopo, Papua New Guinea",5.1,2026-09-30 08:15:17.486000+00:00,152.1328,-5.435,earthquake
+USGS,M 5.2 - Balleny Islands region,Balleny Islands region,5.2,2026-09-30 07:07:16.005000+00:00,171.414,-63.5619,earthquake
+USGS,"M 5.0 - 83 km NE of Tadine, New Caledonia","83 km NE of Tadine, New Caledonia",5.0,2026-09-30 06:50:03.339000+00:00,168.4237,-20.988,earthquake
+USGS,"M 4.6 - 3 km W of Thívai, Greece","3 km W of Thívai, Greece",4.6,2026-09-30 05:20:59.067000+00:00,23.2795,38.3276,earthquake
+USGS,"M 5.6 - 74 km S of Yonakuni, Japan","74 km S of Yonakuni, Japan",5.6,2026-09-30 05:00:24.971000+00:00,122.9149,23.8027,earthquake
+USGS,M 5.4 - Balleny Islands region,Balleny Islands region,5.4,2026-09-30 04:48:06.031000+00:00,169.2156,-63.0088,earthquake
+USGS,"M 4.5 - 112 km SSW of Banda Aceh, Indonesia","112 km SSW of Banda Aceh, Indonesia",4.5,2026-09-30 02:35:50.369000+00:00,94.8515,4.6488,earthquake
+USGS,"M 4.5 - 104 km SSE of Sarangani, Philippines","104 km SSE of Sarangani, Philippines",4.5,2026-09-30 02:30:44.716000+00:00,125.7472,4.5021,earthquake
+USGS,"M 4.8 - 18 km SW of Tayaman, Philippines","18 km SW of Tayaman, Philippines",4.8,2026-09-30 01:34:05.751000+00:00,120.4734,13.0922,earthquake
+USGS,"M 4.8 - 75 km NE of Tadine, New Caledonia","75 km NE of Tadine, New Caledonia",4.8,2026-09-30 01:17:47.844000+00:00,168.3284,-21.0085,earthquake
+USGS,"M 4.5 - 15 km SW of San Antonio, Colombia","15 km SW of San Antonio, Colombia",4.5,2026-09-29 21:50:29.969000+00:00,-75.5906,3.8311,earthquake
+USGS,"M 4.7 - 49 km N of Dicabisagan, Philippines","49 km N of Dicabisagan, Philippines",4.7,2026-09-29 20:45:50.983000+00:00,122.4136,17.5267,earthquake
+USGS,"M 4.7 - 50 km N of Fangale’ounga, Tonga","50 km N of Fangale’ounga, Tonga",4.7,2026-09-29 16:13:02.568000+00:00,-174.2536,-19.2971,earthquake
+USGS,M 4.6 - West Chile Rise,West Chile Rise,4.6,2026-09-29 15:31:18.586000+00:00,-91.4145,-40.9373,earthquake
+USGS,M 4.8 - South Sandwich Islands region,South Sandwich Islands region,4.8,2026-09-29 15:17:18.167000+00:00,-25.9552,-58.7473,earthquake
+USGS,"M 4.9 - 61 km NW of Pante Makasar, Timor Leste","61 km NW of Pante Makasar, Timor Leste",4.9,2026-09-29 14:14:05.529000+00:00,123.9679,-8.8321,earthquake
+USGS,M 5.5 - southern Mid-Atlantic Ridge,southern Mid-Atlantic Ridge,5.5,2026-09-29 13:06:09.941000+00:00,-16.0771,-35.2758,earthquake
+USGS,"M 5.4 - 99 km SSE of Pangai, Tonga","99 km SSE of Pangai, Tonga",5.4,2026-09-29 12:40:35.064000+00:00,-174.0813,-20.6773,earthquake
+USGS,"M 4.8 - 97 km W of Petrolia, CA","97 km W of Petrolia, CA",4.77,2026-09-29 11:36:39.240000+00:00,-125.418333333333,40.4225,earthquake
+USGS,"M 4.8 - 98 km SW of Port-Vila, Vanuatu","98 km SW of Port-Vila, Vanuatu",4.8,2026-09-29 11:27:48.406000+00:00,167.5446,-18.2306,earthquake
+USGS,"M 5.0 - 77 km ENE of Tadine, New Caledonia","77 km ENE of Tadine, New Caledonia",5.0,2026-09-29 10:42:57.409000+00:00,168.5924,-21.3447,earthquake
+USGS,"M 4.5 - 96 km ENE of Alianza Cristiana, Peru","96 km ENE of Alianza Cristiana, Peru",4.5,2026-09-29 10:22:14.613000+00:00,-75.6413,-3.1213,earthquake
+USGS,"M 4.5 - 95 km SSW of Ocós, Guatemala","95 km SSW of Ocós, Guatemala",4.5,2026-09-29 08:21:56.906000+00:00,-92.6345,13.7623,earthquake
+USGS,M 4.8 - South Sandwich Islands region,South Sandwich Islands region,4.8,2026-09-29 06:38:49.006000+00:00,-28.4628,-55.2555,earthquake
+USGS,M 4.8 - South Sandwich Islands region,South Sandwich Islands region,4.8,2026-09-29 04:16:27.199000+00:00,-28.2098,-55.3157,earthquake
+USGS,"M 5.3 - 76 km NE of Tadine, New Caledonia","76 km NE of Tadine, New Caledonia",5.3,2026-09-29 03:23:54.418000+00:00,168.4092,-21.0716,earthquake
+USGS,"M 4.5 - 173 km SE of Atlasovo, Russia","173 km SE of Atlasovo, Russia",4.5,2026-09-29 00:05:23.887000+00:00,161.5616,54.5068,earthquake
+USGS,"M 4.9 - 2 km SW of Sakai, Japan","2 km SW of Sakai, Japan",4.9,2026-09-28 19:45:07.515000+00:00,139.7782,36.0809,earthquake
+USGS,"M 4.6 - 36 km SE of Hualien City, Taiwan","36 km SE of Hualien City, Taiwan",4.6,2026-09-28 18:20:44.330000+00:00,121.8063,23.702,earthquake
+USGS,"M 4.8 - 155 km NNW of Kilmia, Yemen","155 km NNW of Kilmia, Yemen",4.8,2026-09-28 17:37:55.108000+00:00,51.4935,13.3879,earthquake
+USGS,"M 4.9 - 124 km SE of Pondaguitan, Philippines","124 km SE of Pondaguitan, Philippines",4.9,2026-09-28 15:01:39.183000+00:00,127.0338,5.634,earthquake
+USGS,"M 4.7 - 115 km WSW of Banda Aceh, Indonesia","115 km WSW of Banda Aceh, Indonesia",4.7,2026-09-28 14:43:10.687000+00:00,94.3303,5.2548,earthquake
+USGS,"M 4.9 - 22 km WNW of Malango, Solomon Islands","22 km WNW of Malango, Solomon Islands",4.9,2026-09-28 13:38:40.724000+00:00,159.5458,-9.5835,earthquake
+USGS,M 5.4 - north of Svalbard,north of Svalbard,5.4,2026-09-28 13:22:39.769000+00:00,-7.1923,82.6385,earthquake
+USGS,M 4.7 - Fiji region,Fiji region,4.7,2026-09-28 12:14:24.032000+00:00,-178.4971,-20.6932,earthquake
+USGS,"M 5.2 - 190 km WSW of Port McNeill, Canada","190 km WSW of Port McNeill, Canada",5.2,2026-09-28 09:13:39.402000+00:00,-129.6785,50.171,earthquake
+USGS,"M 4.7 - 65 km E of Pilar, Philippines","65 km E of Pilar, Philippines",4.7,2026-09-28 08:16:13.363000+00:00,126.6861,9.9585,earthquake
+USGS,"M 4.7 - 149 km NE of Hicks Bay, New Zealand","149 km NE of Hicks Bay, New Zealand",4.7,2026-09-28 06:37:56.356000+00:00,179.6666,-36.8177,earthquake
+USGS,"M 5.2 - 67 km ENE of Tadine, New Caledonia","67 km ENE of Tadine, New Caledonia",5.2,2026-09-28 05:45:29.689000+00:00,168.4274,-21.2247,earthquake
+USGS,"M 4.9 - 39 km ENE of Tadine, New Caledonia","39 km ENE of Tadine, New Caledonia",4.9,2026-09-28 05:42:32.024000+00:00,168.2294,-21.3968,earthquake
+USGS,"M 4.6 - 63 km ENE of Tadine, New Caledonia","63 km ENE of Tadine, New Caledonia",4.6,2026-09-28 05:42:21.379000+00:00,168.3953,-21.2372,earthquake
+USGS,"M 5.1 - 78 km ENE of Tadine, New Caledonia","78 km ENE of Tadine, New Caledonia",5.1,2026-09-28 05:28:08.891000+00:00,168.5459,-21.2065,earthquake
+USGS,M 4.6 - northwest of the Kuril Islands,northwest of the Kuril Islands,4.6,2026-09-28 04:42:56.780000+00:00,151.5708,49.0259,earthquake
+USGS,M 4.9 - South Sandwich Islands region,South Sandwich Islands region,4.9,2026-09-28 04:41:33.467000+00:00,-25.347,-57.6502,earthquake
+USGS,"M 5.4 - 231 km WSW of Port McNeill, Canada","231 km WSW of Port McNeill, Canada",5.4,2026-09-28 04:41:21.639000+00:00,-130.2208,50.0527,earthquake
+USGS,M 5.1 - South Sandwich Islands region,South Sandwich Islands region,5.1,2026-09-28 03:43:44.172000+00:00,-25.2785,-57.6701,earthquake
+USGS,"M 5.3 - 60 km NE of Tadine, New Caledonia","60 km NE of Tadine, New Caledonia",5.3,2026-09-28 03:25:06.893000+00:00,168.3545,-21.2245,earthquake
+USGS,"M 4.7 - 59 km NE of Tadine, New Caledonia","59 km NE of Tadine, New Caledonia",4.7,2026-09-28 03:15:54.201000+00:00,168.2188,-21.1166,earthquake
+USGS,"M 4.9 - 195 km WSW of Port McNeill, Canada","195 km WSW of Port McNeill, Canada",4.9,2026-09-28 02:53:43.974000+00:00,-129.7765,50.2372,earthquake
+USGS,"M 4.9 - 43 km W of Palauig, Philippines","43 km W of Palauig, Philippines",4.9,2026-09-28 00:54:43.108000+00:00,119.503,15.4374,earthquake
+USGS,"M 4.8 - 80 km E of Tadine, New Caledonia","80 km E of Tadine, New Caledonia",4.8,2026-09-28 00:47:33.083000+00:00,168.6452,-21.4457,earthquake
+USGS,"M 4.5 - 74 km SE of Ossora, Russia","74 km SE of Ossora, Russia",4.5,2026-09-28 00:37:59.117000+00:00,163.9027,58.7371,earthquake
+USGS,M 4.5 - Fiji region,Fiji region,4.5,2026-09-27 23:55:48.800000+00:00,-179.7824,-21.9936,earthquake
+USGS,"M 4.6 - 19 km SW of Sipí, Colombia","19 km SW of Sipí, Colombia",4.6,2026-09-27 21:57:52.827000+00:00,-76.7753,4.5313,earthquake
+USGS,"M 4.8 - 2 km W of Guaymate, Dominican Republic","2 km W of Guaymate, Dominican Republic",4.8,2026-09-27 21:49:48.024000+00:00,-68.9986,18.5869,earthquake
+USGS,"M 4.5 - 0 km ESE of Naisano Dua, Indonesia","0 km ESE of Naisano Dua, Indonesia",4.5,2026-09-27 21:14:51.832000+00:00,123.7756,-9.5995,earthquake
+USGS,M 5.0 - South Sandwich Islands region,South Sandwich Islands region,5.0,2026-09-27 21:13:33.366000+00:00,-25.8945,-59.0586,earthquake
+USGS,"M 4.6 - 102 km ENE of Tadine, New Caledonia","102 km ENE of Tadine, New Caledonia",4.6,2026-09-27 19:05:12.429000+00:00,168.8338,-21.3015,earthquake
+USGS,"M 4.6 - 19 km NW of Yongning, China","19 km NW of Yongning, China",4.6,2026-09-27 18:29:58.261000+00:00,100.5554,27.9739,earthquake
+USGS,"M 5.0 - 191 km NW of Oula Xiuma, China","191 km NW of Oula Xiuma, China",5.0,2026-09-27 16:43:10.268000+00:00,99.5536,35.3861,earthquake
+USGS,M 5.3 - Balleny Islands region,Balleny Islands region,5.3,2026-09-27 15:41:04.974000+00:00,165.9549,-62.5354,earthquake
+USGS,"M 4.6 - Rat Islands, Aleutian Islands, Alaska","Rat Islands, Aleutian Islands, Alaska",4.6,2026-09-27 07:48:11.749000+00:00,179.3215,50.9044,earthquake
+USGS,"M 4.9 - 159 km ESE of Gizo, Solomon Islands","159 km ESE of Gizo, Solomon Islands",4.9,2026-09-27 04:59:48.847000+00:00,158.0533,-8.8929,earthquake
+USGS,"M 4.5 - 145 km WNW of Lebu, Chile","145 km WNW of Lebu, Chile",4.5,2026-09-27 04:14:44.454000+00:00,-75.1898,-37.1357,earthquake
+USGS,"M 5.1 - 90 km ENE of Tadine, New Caledonia","90 km ENE of Tadine, New Caledonia",5.1,2026-09-27 02:22:10.562000+00:00,168.7073,-21.2857,earthquake
+USGS,"M 5.0 - 61 km ENE of Tadine, New Caledonia","61 km ENE of Tadine, New Caledonia",5.0,2026-09-27 01:18:25.822000+00:00,168.4566,-21.4298,earthquake
+USGS,"M 4.9 - 78 km ESE of Kokopo, Papua New Guinea","78 km ESE of Kokopo, Papua New Guinea",4.9,2026-09-26 21:49:27.543000+00:00,152.9096,-4.6357,earthquake
+USGS,"M 4.9 - 53 km NNW of Ruteng, Indonesia","53 km NNW of Ruteng, Indonesia",4.9,2026-09-26 19:37:01.041000+00:00,120.3303,-8.1482,earthquake
+USGS,"M 4.5 - 80 km ENE of Tadine, New Caledonia","80 km ENE of Tadine, New Caledonia",4.5,2026-09-26 19:33:55.065000+00:00,168.6277,-21.3519,earthquake
+USGS,"M 4.7 - 15 km WNW of Bowangshan, China","15 km WNW of Bowangshan, China",4.7,2026-09-26 18:31:42.676000+00:00,104.8984,28.3378,earthquake
+USGS,"M 4.8 - 81 km ENE of Tadine, New Caledonia","81 km ENE of Tadine, New Caledonia",4.8,2026-09-26 18:25:23.615000+00:00,168.6475,-21.3737,earthquake
+USGS,M 4.6 - south of Africa,south of Africa,4.6,2026-09-26 17:50:20.700000+00:00,31.0969,-48.6061,earthquake
+USGS,"M 5.2 - 148 km NW of Kilmia, Yemen","148 km NW of Kilmia, Yemen",5.2,2026-09-26 16:33:43.256000+00:00,51.4567,13.2872,earthquake
+USGS,"M 4.8 - 72 km E of Tadine, New Caledonia","72 km E of Tadine, New Caledonia",4.8,2026-09-26 16:06:48.430000+00:00,168.5787,-21.4649,earthquake
+USGS,"M 5.0 - 78 km ENE of Tadine, New Caledonia","78 km ENE of Tadine, New Caledonia",5.0,2026-09-26 15:01:36.315000+00:00,168.5731,-21.268,earthquake
+USGS,"M 5.6 - 72 km ESE of Kokopo, Papua New Guinea","72 km ESE of Kokopo, Papua New Guinea",5.6,2026-09-26 14:08:18.875000+00:00,152.8611,-4.6288,earthquake
+USGS,"M 4.8 - 83 km NE of Tadine, New Caledonia","83 km NE of Tadine, New Caledonia",4.8,2026-09-26 13:48:49.760000+00:00,168.4849,-21.0512,earthquake
+USGS,"M 4.6 - 145 km NE of Maumere, Indonesia","145 km NE of Maumere, Indonesia",4.6,2026-09-26 13:38:15.958000+00:00,123.2938,-7.8646,earthquake
+USGS,"M 5.2 - 58 km NE of Tadine, New Caledonia","58 km NE of Tadine, New Caledonia",5.2,2026-09-26 12:14:58.406000+00:00,168.3226,-21.2176,earthquake
+USGS,"M 5.0 - 76 km NE of Tadine, New Caledonia","76 km NE of Tadine, New Caledonia",5.0,2026-09-26 12:14:20.648000+00:00,168.4681,-21.1281,earthquake
+USGS,"M 4.7 - 73 km ENE of Tadine, New Caledonia","73 km ENE of Tadine, New Caledonia",4.7,2026-09-26 12:11:01.897000+00:00,168.5179,-21.2646,earthquake
+USGS,M 4.7 - North Indian Ocean,North Indian Ocean,4.7,2026-09-26 10:53:15.123000+00:00,89.4977,1.831,earthquake
+USGS,"M 4.9 - 73 km ENE of Tadine, New Caledonia","73 km ENE of Tadine, New Caledonia",4.9,2026-09-26 10:21:05.896000+00:00,168.4957,-21.2105,earthquake
+USGS,"M 4.8 - 78 km ENE of Tadine, New Caledonia","78 km ENE of Tadine, New Caledonia",4.8,2026-09-26 09:10:31.027000+00:00,168.5301,-21.182,earthquake
+USGS,"M 4.8 - 97 km NE of Tadine, New Caledonia","97 km NE of Tadine, New Caledonia",4.8,2026-09-26 09:08:05.869000+00:00,168.6238,-21.0058,earthquake
+USGS,"M 4.7 - 71 km ENE of Tadine, New Caledonia","71 km ENE of Tadine, New Caledonia",4.7,2026-09-26 09:07:19.622000+00:00,168.4865,-21.2366,earthquake
+USGS,"M 4.7 - 97 km NE of Tadine, New Caledonia","97 km NE of Tadine, New Caledonia",4.7,2026-09-26 08:54:03.961000+00:00,168.6325,-21.0172,earthquake
+USGS,"M 5.0 - 78 km ENE of Tadine, New Caledonia","78 km ENE of Tadine, New Caledonia",5.0,2026-09-26 08:24:58.743000+00:00,168.5478,-21.2116,earthquake
+USGS,"M 5.0 - 84 km ENE of Tadine, New Caledonia","84 km ENE of Tadine, New Caledonia",5.0,2026-09-26 07:22:12.908000+00:00,168.614,-21.2249,earthquake
+USGS,"M 5.1 - 68 km NE of Tadine, New Caledonia","68 km NE of Tadine, New Caledonia",5.1,2026-09-26 07:08:02.558000+00:00,168.4225,-21.1943,earthquake
+USGS,"M 4.6 - 25 km W of Roncesvalles, Colombia","25 km W of Roncesvalles, Colombia",4.6,2026-09-26 06:38:19.029000+00:00,-75.8315,4.018,earthquake
+USGS,"M 5.1 - 64 km ENE of Tadine, New Caledonia","64 km ENE of Tadine, New Caledonia",5.1,2026-09-26 05:50:48.716000+00:00,168.4033,-21.227,earthquake
+USGS,M 4.5 - Iceland region,Iceland region,4.5,2026-09-26 02:52:55.988000+00:00,-16.9554,68.8565,earthquake
+USGS,"M 4.7 - 80 km ENE of Tadine, New Caledonia","80 km ENE of Tadine, New Caledonia",4.7,2026-09-26 01:17:15.531000+00:00,168.6129,-21.2949,earthquake
+USGS,"M 5.3 - 58 km ENE of Tadine, New Caledonia","58 km ENE of Tadine, New Caledonia",5.3,2026-09-26 01:10:19.430000+00:00,168.3721,-21.2883,earthquake
+USGS,"M 5.0 - 15 km NNW of Xunchang, China","15 km NNW of Xunchang, China",5.0,2026-09-25 23:57:33.361000+00:00,104.6428,28.5792,earthquake
+USGS,"M 5.4 - 69 km ENE of Tadine, New Caledonia","69 km ENE of Tadine, New Caledonia",5.4,2026-09-25 23:52:35.158000+00:00,168.4346,-21.2023,earthquake
+USGS,"M 5.5 - 61 km ENE of Tadine, New Caledonia","61 km ENE of Tadine, New Caledonia",5.5,2026-09-25 23:39:41.392000+00:00,168.4446,-21.3748,earthquake
+USGS,"M 4.9 - 78 km NE of Tadine, New Caledonia","78 km NE of Tadine, New Caledonia",4.9,2026-09-25 23:32:44.392000+00:00,168.5092,-21.1532,earthquake
+USGS,"M 5.1 - 78 km ENE of Tadine, New Caledonia","78 km ENE of Tadine, New Caledonia",5.1,2026-09-25 22:07:34.791000+00:00,168.5744,-21.2728,earthquake
+USGS,"M 6.6 - 80 km ENE of Tadine, New Caledonia","80 km ENE of Tadine, New Caledonia",6.6,2026-09-25 21:23:03.309000+00:00,168.61,-21.2982,earthquake
+USGS,"M 5.0 - 13 km N of Xunchang, China","13 km N of Xunchang, China",5.0,2026-09-25 21:01:27.262000+00:00,104.7032,28.5744,earthquake
+USGS,M 4.5 - south of the Fiji Islands,south of the Fiji Islands,4.5,2026-09-25 20:43:32.619000+00:00,-179.9919,-24.0533,earthquake
+USGS,"M 4.6 - 144 km SE of Lata, Solomon Islands","144 km SE of Lata, Solomon Islands",4.6,2026-09-25 20:41:09.329000+00:00,166.6797,-11.7022,earthquake
+USGS,"M 4.8 - 42 km N of Ruteng, Indonesia","42 km N of Ruteng, Indonesia",4.8,2026-09-25 19:39:29.552000+00:00,120.4296,-8.2281,earthquake
+USGS,"M 4.7 - 36 km ENE of Kunigami, Japan","36 km ENE of Kunigami, Japan",4.7,2026-09-25 19:14:53.531000+00:00,128.5171,26.8398,earthquake
+USGS,"M 5.2 - 62 km SW of San Antonio, Chile","62 km SW of San Antonio, Chile",5.2,2026-09-25 15:29:09.560000+00:00,-72.1079,-33.9661,earthquake
+USGS,"M 4.7 - 80 km SW of Labuan, Indonesia","80 km SW of Labuan, Indonesia",4.7,2026-09-25 13:47:26.836000+00:00,105.3554,-6.9267,earthquake
+USGS,M 4.9 - Drake Passage,Drake Passage,4.9,2026-09-25 12:37:16.665000+00:00,-61.371,-59.849,earthquake
+USGS,"M 4.5 - 72 km E of Thang, India","72 km E of Thang, India",4.5,2026-09-25 11:53:21.312000+00:00,77.5756,34.8425,earthquake
+USGS,M 5.3 - Vanuatu region,Vanuatu region,5.3,2026-09-25 11:12:15.838000+00:00,174.0792,-21.8904,earthquake
+USGS,"M 5.0 - 124 km N of Metinaro, Timor Leste","124 km N of Metinaro, Timor Leste",5.0,2026-09-25 04:27:40.435000+00:00,125.6985,-7.4036,earthquake
+USGS,"M 4.5 - 39 km WSW of Sipí, Colombia","39 km WSW of Sipí, Colombia",4.5,2026-09-25 00:57:07.267000+00:00,-76.9788,4.5217,earthquake
+USGS,"M 5.3 - 72 km NW of Finschhafen, Papua New Guinea","72 km NW of Finschhafen, Papua New Guinea",5.3,2026-09-24 23:30:28.053000+00:00,147.3935,-6.0863,earthquake
+USGS,"M 4.9 - Kermadec Islands, New Zealand","Kermadec Islands, New Zealand",4.9,2026-09-24 22:22:59.185000+00:00,-177.6601,-29.4432,earthquake
+USGS,"M 4.6 - 155 km NW of Ternate, Indonesia","155 km NW of Ternate, Indonesia",4.6,2026-09-24 20:05:25.988000+00:00,126.5357,1.9132,earthquake
+USGS,"M 5.1 - 32 km S of Kokopo, Papua New Guinea","32 km S of Kokopo, Papua New Guinea",5.1,2026-09-24 18:00:47.703000+00:00,152.2767,-4.6356,earthquake
+USGS,"M 4.6 - 21 km NNW of Rioblanco, Colombia","21 km NNW of Rioblanco, Colombia",4.6,2026-09-24 16:46:31.662000+00:00,-75.7529,3.6948,earthquake
+USGS,"M 4.6 - 119 km SW of Abepura, Indonesia","119 km SW of Abepura, Indonesia",4.6,2026-09-24 16:28:00.188000+00:00,139.7677,-3.243,earthquake
+USGS,"M 4.5 - 106 km SW of Puerto Madero, Mexico","106 km SW of Puerto Madero, Mexico",4.5,2026-09-24 14:02:42.293000+00:00,-93.213,14.1475,earthquake
+USGS,"M 5.2 - 139 km SW of Kokopo, Papua New Guinea","139 km SW of Kokopo, Papua New Guinea",5.2,2026-09-24 12:29:58.824000+00:00,151.4915,-5.3396,earthquake
+USGS,"M 4.9 - Kermadec Islands, New Zealand","Kermadec Islands, New Zealand",4.9,2026-09-24 11:08:24.838000+00:00,-177.8691,-30.2344,earthquake
+USGS,"M 5.3 - 15 km SSW of Hilvan, Turkey","15 km SSW of Hilvan, Turkey",5.3,2026-09-24 07:40:58.138000+00:00,38.8612,37.4736,earthquake
+USGS,"M 4.5 - 31 km NNW of Komodo, Indonesia","31 km NNW of Komodo, Indonesia",4.5,2026-09-24 03:30:26.013000+00:00,119.3665,-8.33,earthquake
+USGS,"M 4.6 - 223 km WNW of Abepura, Indonesia","223 km WNW of Abepura, Indonesia",4.6,2026-09-24 00:26:38.374000+00:00,138.7809,-1.8133,earthquake
+USGS,"M 4.5 - 50 km E of Finschhafen, Papua New Guinea","50 km E of Finschhafen, Papua New Guinea",4.5,2026-09-23 22:31:20.377000+00:00,148.2939,-6.6396,earthquake
+USGS,"M 4.6 - 9 km S of San Antonio, Colombia","9 km S of San Antonio, Colombia",4.6,2026-09-23 20:09:44.688000+00:00,-75.4702,3.8318,earthquake
+USGS,"M 5.0 - 139 km NNE of Ba, Fiji","139 km NNE of Ba, Fiji",5.0,2026-09-23 17:46:06.554000+00:00,178.0237,-16.3155,earthquake
+USGS,"M 4.9 - 193 km SE of Mata-Utu, Wallis and Futuna","193 km SE of Mata-Utu, Wallis and Futuna",4.9,2026-09-23 17:20:32.721000+00:00,-175.0529,-14.6397,earthquake
+USGS,"M 4.6 - 59 km WNW of San Antonio de los Cobres, Argentina","59 km WNW of San Antonio de los Cobres, Argentina",4.6,2026-09-23 16:48:37.858000+00:00,-66.8891,-24.0812,earthquake
+USGS,M 4.6 - south of the Fiji Islands,south of the Fiji Islands,4.6,2026-09-23 14:45:35.743000+00:00,179.2578,-23.9741,earthquake
+USGS,"M 5.7 - 180 km NW of Hihifo, Tonga","180 km NW of Hihifo, Tonga",5.7,2026-09-23 14:41:02.650000+00:00,-175.1114,-14.9369,earthquake
+USGS,M 5.0 - Mariana Islands region,Mariana Islands region,5.0,2026-09-23 13:01:51.614000+00:00,143.0239,21.6622,earthquake
+USGS,"M 4.6 - 106 km WNW of Ternate, Indonesia","106 km WNW of Ternate, Indonesia",4.6,2026-09-23 12:23:20.274000+00:00,126.5263,1.217,earthquake
+USGS,"M 5.3 - 51 km WSW of Arauco, Argentina","51 km WSW of Arauco, Argentina",5.3,2026-09-23 09:21:14.600000+00:00,-67.2912,-28.7298,earthquake
+USGS,M 4.9 - Scotia Sea,Scotia Sea,4.9,2026-09-23 08:41:58.018000+00:00,-47.6004,-60.2661,earthquake
+USGS,M 4.9 - southern East Pacific Rise,southern East Pacific Rise,4.9,2026-09-23 07:36:24.790000+00:00,-107.0125,-35.0606,earthquake
+USGS,"M 4.7 - 30 km SE of Khorugh, Tajikistan","30 km SE of Khorugh, Tajikistan",4.7,2026-09-23 05:46:11.056000+00:00,71.768,37.2772,earthquake
+USGS,M 4.6 - South Sandwich Islands region,South Sandwich Islands region,4.6,2026-09-23 03:52:06.685000+00:00,-25.5725,-57.7093,earthquake
+USGS,M 4.5 - northern Mid-Atlantic Ridge,northern Mid-Atlantic Ridge,4.5,2026-09-23 00:30:03.268000+00:00,-42.0943,30.2005,earthquake
+USGS,M 4.5 - South Sandwich Islands region,South Sandwich Islands region,4.5,2026-09-22 23:30:04.890000+00:00,-25.7932,-57.6506,earthquake
+USGS,"M 4.5 - 71 km SW of Labuan, Indonesia","71 km SW of Labuan, Indonesia",4.5,2026-09-22 22:27:39.202000+00:00,105.4674,-6.9129,earthquake
+USGS,"M 4.6 - 25 km WSW of Roncesvalles, Colombia","25 km WSW of Roncesvalles, Colombia",4.6,2026-09-22 22:12:26.626000+00:00,-75.8291,3.9539,earthquake
+USGS,"M 4.6 - 46 km E of Union, Philippines","46 km E of Union, Philippines",4.6,2026-09-22 20:34:43.296000+00:00,126.5291,9.6886,earthquake
+USGS,"M 5.0 - 47 km NW of Houma, Tonga","47 km NW of Houma, Tonga",5.0,2026-09-22 20:11:49.199000+00:00,-175.6376,-20.8795,earthquake
+USGS,"M 4.5 - 51 km W of Kuqa, China","51 km W of Kuqa, China",4.5,2026-09-22 16:09:09.440000+00:00,82.3165,41.7997,earthquake
+USGS,"M 4.6 - 37 km SE of Severo-Kuril’sk, Russia","37 km SE of Severo-Kuril’sk, Russia",4.6,2026-09-22 13:56:15.091000+00:00,156.4937,50.4343,earthquake
+USGS,"M 4.7 - 7 km WNW of La Gomera, Guatemala","7 km WNW of La Gomera, Guatemala",4.7,2026-09-22 11:43:45.547000+00:00,-91.1165,14.113,earthquake
+USGS,"M 5.1 - 88 km NNW of Uken, Japan","88 km NNW of Uken, Japan",5.1,2026-09-22 10:46:22.312000+00:00,128.8944,29.0367,earthquake
+USGS,"M 4.6 - 296 km S of Ambon, Indonesia","296 km S of Ambon, Indonesia",4.6,2026-09-22 10:30:19.045000+00:00,128.6303,-6.3408,earthquake
+USGS,"M 4.6 - 19 km ENE of Nailong, Philippines","19 km ENE of Nailong, Philippines",4.6,2026-09-22 06:48:09.705000+00:00,124.2096,11.0957,earthquake
+USGS,"M 4.9 - Volcano Islands, Japan region","Volcano Islands, Japan region",4.9,2026-09-22 06:11:10.037000+00:00,142.3395,23.003,earthquake
+USGS,"M 5.0 - Volcano Islands, Japan region","Volcano Islands, Japan region",5.0,2026-09-22 05:18:24.687000+00:00,142.4369,23.1331,earthquake
+USGS,"M 4.7 - 54 km NNW of Ende, Indonesia","54 km NNW of Ende, Indonesia",4.7,2026-09-22 03:36:25.949000+00:00,121.4677,-8.3909,earthquake
+USGS,"M 4.8 - 67 km N of Claveria, Philippines","67 km N of Claveria, Philippines",4.8,2026-09-22 00:08:04.727000+00:00,121.0898,19.2155,earthquake
+USGS,"M 5.3 - 96 km S of Sarangani, Philippines","96 km S of Sarangani, Philippines",5.3,2026-09-21 23:48:13.188000+00:00,125.3444,4.5364,earthquake
+USGS,"M 4.5 - 91 km E of Namie, Japan","91 km E of Namie, Japan",4.5,2026-09-21 22:29:59.302000+00:00,142.0357,37.5254,earthquake
+USGS,M 5.0 - South Sandwich Islands region,South Sandwich Islands region,5.0,2026-09-21 21:37:04.841000+00:00,-24.1611,-56.5177,earthquake
+USGS,M 4.6 - Kermadec Islands region,Kermadec Islands region,4.6,2026-09-21 20:34:32.515000+00:00,-176.4408,-28.701,earthquake
+USGS,"M 4.5 - 1 km SE of San Antonio, Colombia","1 km SE of San Antonio, Colombia",4.5,2026-09-21 18:48:44.872000+00:00,-75.4687,3.9032,earthquake
+USGS,"M 4.5 - 116 km SE of Ollagüe, Chile","116 km SE of Ollagüe, Chile",4.5,2026-09-21 17:38:42.560000+00:00,-67.5392,-22.0428,earthquake
+USGS,"M 4.5 - Izu Islands, Japan region","Izu Islands, Japan region",4.5,2026-09-21 15:56:20.800000+00:00,142.3866,31.8597,earthquake
+USGS,"M 4.7 - 40 km E of Nobeoka, Japan","40 km E of Nobeoka, Japan",4.7,2026-09-21 13:38:32.301000+00:00,132.0918,32.5581,earthquake
+USGS,"M 4.7 - 76 km W of Ollagüe, Chile","76 km W of Ollagüe, Chile",4.7,2026-09-21 12:17:05.292000+00:00,-68.9887,-21.2643,earthquake
+USGS,"M 5.2 - 167 km WNW of Mejillones, Chile","167 km WNW of Mejillones, Chile",5.2,2026-09-21 11:48:28.996000+00:00,-71.8678,-22.3643,earthquake
+USGS,"M 4.7 - 95 km ENE of Khorugh, Tajikistan","95 km ENE of Khorugh, Tajikistan",4.7,2026-09-21 10:48:16.231000+00:00,72.4916,37.9169,earthquake
+USGS,"M 5.0 - 34 km WNW of Luwuk, Indonesia","34 km WNW of Luwuk, Indonesia",5.0,2026-09-21 07:31:07.967000+00:00,122.4959,-0.8563,earthquake
+USGS,"M 4.7 - 156 km NNW of Hicks Bay, New Zealand","156 km NNW of Hicks Bay, New Zealand",4.7,2026-09-21 04:28:40.661000+00:00,177.7978,-36.2456,earthquake
+USGS,"M 4.5 - 4 km W of Victor Raul, Peru","4 km W of Victor Raul, Peru",4.5,2026-09-21 03:58:24.483000+00:00,-78.8646,-8.397,earthquake
+USGS,"M 5.5 - 35 km NNE of Ruteng, Indonesia","35 km NNE of Ruteng, Indonesia",5.5,2026-09-21 01:41:36.315000+00:00,120.5793,-8.307,earthquake
+USGS,"M 4.9 - 26 km SE of Saimbeyli, Turkey","26 km SE of Saimbeyli, Turkey",4.9,2026-09-21 01:02:04.529000+00:00,36.2994,37.8136,earthquake
+USGS,"M 4.6 - 54 km S of Sarangani, Philippines","54 km S of Sarangani, Philippines",4.6,2026-09-21 00:08:39.895000+00:00,125.3922,4.9141,earthquake
+USGS,M 4.6 - east of the South Sandwich Islands,east of the South Sandwich Islands,4.6,2026-09-20 23:36:46.916000+00:00,-14.8256,-58.8153,earthquake
+USGS,"M 4.6 - 26 km SSW of Shikotan, Russia","26 km SSW of Shikotan, Russia",4.6,2026-09-20 23:25:37.454000+00:00,146.5523,43.596,earthquake
+USGS,"M 5.0 - 201 km SSE of Lata, Solomon Islands","201 km SSE of Lata, Solomon Islands",5.0,2026-09-20 22:51:20.032000+00:00,166.4026,-12.4424,earthquake
+USGS,M 4.9 - southeast of the Loyalty Islands,southeast of the Loyalty Islands,4.9,2026-09-20 22:09:59.182000+00:00,171.7522,-23.0473,earthquake
+USGS,"M 5.0 - 244 km SSE of False Pass, Alaska","244 km SSE of False Pass, Alaska",5.0,2026-09-20 21:06:20.169000+00:00,-162.4841,52.7316,earthquake
+USGS,M 5.5 - south of Africa,south of Africa,5.5,2026-09-20 20:54:37.205000+00:00,31.2519,-48.4518,earthquake
+USGS,"M 4.5 - 41 km ESE of Khuzdar, Pakistan","41 km ESE of Khuzdar, Pakistan",4.5,2026-09-20 20:41:20.572000+00:00,67.0066,27.6892,earthquake
+USGS,"M 4.6 - 178 km NNE of Lospalos, Timor Leste","178 km NNE of Lospalos, Timor Leste",4.6,2026-09-20 15:39:26.574000+00:00,127.4259,-6.9664,earthquake
+USGS,"M 4.6 - 2 km S of Buenavista, Philippines","2 km S of Buenavista, Philippines",4.6,2026-09-20 15:37:53.357000+00:00,126.1574,9.0946,earthquake
+USGS,"M 4.5 - 280 km WNW of Houma, Tonga","280 km WNW of Houma, Tonga",4.5,2026-09-20 15:33:50.990000+00:00,-177.8624,-20.3729,earthquake
+USGS,"M 4.6 - 102 km WSW of Nikolski, Alaska","102 km WSW of Nikolski, Alaska",4.6,2026-09-20 13:55:47.125000+00:00,-170.3466,52.7501,earthquake
+USGS,"M 4.6 - 38 km W of San Pedro de Atacama, Chile","38 km W of San Pedro de Atacama, Chile",4.6,2026-09-20 13:55:15.584000+00:00,-68.5704,-22.9629,earthquake
+USGS,"M 4.7 - 58 km SE of Shima, Japan","58 km SE of Shima, Japan",4.7,2026-09-20 13:54:56.985000+00:00,137.3197,33.9889,earthquake
+USGS,"M 5.2 - 104 km W of Hihifo, Tonga","104 km W of Hihifo, Tonga",5.2,2026-09-20 13:00:45.411000+00:00,-174.7672,-15.8731,earthquake
+USGS,"M 5.4 - 68 km NNE of Kainantu, Papua New Guinea","68 km NNE of Kainantu, Papua New Guinea",5.4,2026-09-20 12:45:53.415000+00:00,146.2041,-5.7711,earthquake
+USGS,"M 4.8 - 92 km W of Lata, Solomon Islands","92 km W of Lata, Solomon Islands",4.8,2026-09-20 12:24:22.144000+00:00,164.9562,-10.6446,earthquake
+USGS,"M 6.4 - 49 km NNE of Kainantu, Papua New Guinea","49 km NNE of Kainantu, Papua New Guinea",6.4,2026-09-20 09:17:35.624000+00:00,146.0922,-5.9021,earthquake
+USGS,"M 5.3 - 61 km WNW of Cafayate, Argentina","61 km WNW of Cafayate, Argentina",5.3,2026-09-20 08:47:54.359000+00:00,-66.5832,-25.958,earthquake
+USGS,"M 4.6 - 94 km ESE of Yigo Village, Guam","94 km ESE of Yigo Village, Guam",4.6,2026-09-20 07:32:58.042000+00:00,145.7099,13.2388,earthquake
+USGS,"M 5.1 - 17 km WNW of Naze, Japan","17 km WNW of Naze, Japan",5.1,2026-09-20 07:28:22.963000+00:00,129.3273,28.4442,earthquake
+USGS,"M 4.9 - 99 km ESE of Yigo Village, Guam","99 km ESE of Yigo Village, Guam",4.9,2026-09-20 06:47:57.789000+00:00,145.7678,13.2611,earthquake
+USGS,"M 5.0 - 78 km W of Hihifo, Tonga","78 km W of Hihifo, Tonga",5.0,2026-09-20 05:07:03.090000+00:00,-174.5258,-15.9518,earthquake
+USGS,"M 5.3 - 120 km ESE of Yigo Village, Guam","120 km ESE of Yigo Village, Guam",5.3,2026-09-20 03:43:24.202000+00:00,145.9048,13.0833,earthquake
+USGS,"M 4.5 - 54 km ENE of Sainte-Marie, Martinique","54 km ENE of Sainte-Marie, Martinique",4.5,2026-09-20 02:44:21.022000+00:00,-60.5578,15.0395,earthquake
+USGS,M 5.3 - Reykjanes Ridge,Reykjanes Ridge,5.3,2026-09-20 00:58:14.425000+00:00,-33.5459,57.1211,earthquake
+USGS,"M 4.9 - 85 km W of Hihifo, Tonga","85 km W of Hihifo, Tonga",4.9,2026-09-20 00:33:21.417000+00:00,-174.5971,-15.9606,earthquake
+USGS,M 5.3 - Reykjanes Ridge,Reykjanes Ridge,5.3,2026-09-19 20:24:42.324000+00:00,-33.4238,57.1264,earthquake
+USGS,"M 4.5 - 75 km SE of Kuqa, China","75 km SE of Kuqa, China",4.5,2026-09-19 15:53:54.494000+00:00,83.518,41.1968,earthquake
+USGS,"M 5.1 - 67 km NE of Ruteng, Indonesia","67 km NE of Ruteng, Indonesia",5.1,2026-09-19 13:56:00.869000+00:00,120.8819,-8.1668,earthquake
+USGS,"M 4.8 - 29 km WSW of Sipí, Colombia","29 km WSW of Sipí, Colombia",4.8,2026-09-19 13:44:35.732000+00:00,-76.8729,4.5179,earthquake
+USGS,"M 4.5 - 269 km NNW of Dêqên, China","269 km NNW of Dêqên, China",4.5,2026-09-19 12:19:54.779000+00:00,89.2208,32.0205,earthquake
+USGS,"M 4.7 - 26 km NNW of Ushibukamachi, Japan","26 km NNW of Ushibukamachi, Japan",4.7,2026-09-19 12:07:12.229000+00:00,129.8761,32.4073,earthquake
+USGS,"M 4.8 - 8 km WSW of Mongar, Bhutan","8 km WSW of Mongar, Bhutan",4.8,2026-09-19 10:31:17.203000+00:00,91.1652,27.2385,earthquake
+USGS,M 5.0 - South Sandwich Islands region,South Sandwich Islands region,5.0,2026-09-19 09:59:57.562000+00:00,-28.1387,-55.5609,earthquake
+USGS,"M 4.8 - 269 km E of Dolinsk, Russia","269 km E of Dolinsk, Russia",4.8,2026-09-19 09:34:04.631000+00:00,146.3571,47.4404,earthquake
+USGS,"M 4.8 - 152 km S of Lata, Solomon Islands","152 km S of Lata, Solomon Islands",4.8,2026-09-19 08:47:44.610000+00:00,165.9791,-12.0883,earthquake
+USGS,"M 4.8 - 210 km W of Abepura, Indonesia","210 km W of Abepura, Indonesia",4.8,2026-09-19 07:44:25.478000+00:00,138.7377,-2.5871,earthquake
+USGS,"M 4.9 - 117 km NW of Barranca, Peru","117 km NW of Barranca, Peru",4.9,2026-09-19 07:12:27.058000+00:00,-77.349,-4.0134,earthquake
+USGS,"M 4.6 - 57 km ESE of Koseda, Japan","57 km ESE of Koseda, Japan",4.6,2026-09-19 07:08:23.856000+00:00,131.1901,30.1668,earthquake
+USGS,"M 5.2 - 210 km WNW of Abepura, Indonesia","210 km WNW of Abepura, Indonesia",5.2,2026-09-19 04:18:35.318000+00:00,138.8882,-1.8561,earthquake
+USGS,M 4.7 - South Pacific Ocean,South Pacific Ocean,4.7,2026-09-18 23:51:06.691000+00:00,-132.1271,-7.4538,earthquake
+USGS,M 5.5 - Kermadec Islands region,Kermadec Islands region,5.5,2026-09-18 23:18:28.306000+00:00,-177.2286,-27.8581,earthquake
+USGS,"M 4.5 - 112 km ESE of Ust’-Kamchatsk Staryy, Russia","112 km ESE of Ust’-Kamchatsk Staryy, Russia",4.5,2026-09-18 19:16:37.535000+00:00,164.062,55.7503,earthquake
+USGS,"M 4.5 - 28 km S of Sipí, Colombia","28 km S of Sipí, Colombia",4.5,2026-09-18 18:41:23.319000+00:00,-76.6893,4.3989,earthquake
+USGS,"M 4.5 - 216 km SSW of Pelabuhanratu, Indonesia","216 km SSW of Pelabuhanratu, Indonesia",4.5,2026-09-18 17:42:37.843000+00:00,105.6209,-8.7071,earthquake
+USGS,"M 4.8 - 28 km ENE of Villa Presidente Frei, Chile","28 km ENE of Villa Presidente Frei, Chile",4.8,2026-09-18 16:52:07.849000+00:00,-70.3171,-33.322,earthquake
+USGS,"M 4.6 - 34 km S of Bengkulu, Indonesia","34 km S of Bengkulu, Indonesia",4.6,2026-09-18 16:37:23.949000+00:00,102.2302,-4.1133,earthquake
+USGS,"M 5.2 - 182 km SSW of Pelabuhanratu, Indonesia","182 km SSW of Pelabuhanratu, Indonesia",5.2,2026-09-18 14:36:18.354000+00:00,105.8744,-8.4912,earthquake
+USGS,"M 4.6 - 94 km NW of Sola, Vanuatu","94 km NW of Sola, Vanuatu",4.6,2026-09-18 13:57:59.791000+00:00,167.0421,-13.1808,earthquake
+USGS,"M 4.8 - 5 km SW of Guánica, Puerto Rico","5 km SW of Guánica, Puerto Rico",4.8,2026-09-18 13:19:35.140000+00:00,-66.9455,17.9391,earthquake
+USGS,"M 4.6 - 125 km SSW of La Esperanza (El Zapotal), Mexico","125 km SSW of La Esperanza (El Zapotal), Mexico",4.6,2026-09-18 13:12:49.370000+00:00,-93.5556,14.3814,earthquake
+USGS,"M 4.7 - 34 km NNE of Ruteng, Indonesia","34 km NNE of Ruteng, Indonesia",4.7,2026-09-18 12:20:56.630000+00:00,120.5723,-8.3213,earthquake
+USGS,"M 4.6 - 204 km N of Daocheng, China","204 km N of Daocheng, China",4.6,2026-09-18 12:09:48.959000+00:00,99.922,30.8534,earthquake
+USGS,"M 4.6 - Izu Islands, Japan region","Izu Islands, Japan region",4.6,2026-09-18 08:39:05.687000+00:00,141.3279,32.3403,earthquake
+USGS,"M 4.5 - Izu Islands, Japan region","Izu Islands, Japan region",4.5,2026-09-18 07:21:11.062000+00:00,141.2894,32.371,earthquake
+USGS,"M 5.0 - Izu Islands, Japan region","Izu Islands, Japan region",5.0,2026-09-18 07:19:29.154000+00:00,141.402,32.3036,earthquake
+USGS,M 4.7 - Fiji region,Fiji region,4.7,2026-09-18 06:42:29.274000+00:00,-179.3724,-21.9479,earthquake
+USGS,"M 4.7 - 40 km SSW of Sipí, Colombia","40 km SSW of Sipí, Colombia",4.7,2026-09-18 06:17:03.598000+00:00,-76.7931,4.3224,earthquake
+USGS,"M 4.5 - Izu Islands, Japan region","Izu Islands, Japan region",4.5,2026-09-18 02:12:28.463000+00:00,141.3761,32.3401,earthquake
+USGS,"M 4.6 - 20 km ESE of Tsunō, Japan","20 km ESE of Tsunō, Japan",4.6,2026-09-18 01:07:30.435000+00:00,131.754,32.1616,earthquake
+USGS,"M 4.7 - 24 km SW of Sipí, Colombia","24 km SW of Sipí, Colombia",4.7,2026-09-17 21:10:25.572000+00:00,-76.8219,4.5211,earthquake
+USGS,"M 4.6 - 217 km W of Tual, Indonesia","217 km W of Tual, Indonesia",4.6,2026-09-17 20:23:45.505000+00:00,130.7889,-5.6816,earthquake
+USGS,M 4.9 - northern Mid-Atlantic Ridge,northern Mid-Atlantic Ridge,4.9,2026-09-17 19:19:06.820000+00:00,-42.1941,30.1814,earthquake
+USGS,"M 4.5 - 214 km SW of Labuan, Indonesia","214 km SW of Labuan, Indonesia",4.5,2026-09-17 19:17:33.061000+00:00,104.4708,-7.7582,earthquake
+USGS,"M 4.6 - 26 km WSW of Osorno, Chile","26 km WSW of Osorno, Chile",4.6,2026-09-17 15:51:18.117000+00:00,-73.4372,-40.6345,earthquake
+USGS,"M 6.5 - 177 km W of Nikolski, Alaska","177 km W of Nikolski, Alaska",6.5,2026-09-17 14:19:52.472000+00:00,-171.5033,52.9564,earthquake
+USGS,"M 4.7 - 105 km SE of Vilyuchinsk, Russia","105 km SE of Vilyuchinsk, Russia",4.7,2026-09-17 13:30:50.164000+00:00,159.5083,52.2672,earthquake
+USGS,"M 4.5 - 74 km NNW of Ende, Indonesia","74 km NNW of Ende, Indonesia",4.5,2026-09-17 08:28:25.531000+00:00,121.4748,-8.1916,earthquake
+USGS,M 5.0 - South Atlantic Ocean,South Atlantic Ocean,5.0,2026-09-17 06:48:41.638000+00:00,-20.2867,-22.6059,earthquake
+USGS,"M 5.3 - 189 km SE of Mata-Utu, Wallis and Futuna","189 km SE of Mata-Utu, Wallis and Futuna",5.3,2026-09-17 06:42:40.709000+00:00,-174.8386,-14.3959,earthquake
+USGS,"M 4.7 - 59 km SSE of Lakatoro, Vanuatu","59 km SSE of Lakatoro, Vanuatu",4.7,2026-09-17 06:32:08.637000+00:00,167.5939,-16.6078,earthquake
+USGS,"M 5.2 - 130 km WNW of Ternate, Indonesia","130 km WNW of Ternate, Indonesia",5.2,2026-09-17 06:20:48.427000+00:00,126.3131,1.2794,earthquake
+USGS,"M 4.6 - 26 km WSW of Puerto San José, Guatemala","26 km WSW of Puerto San José, Guatemala",4.6,2026-09-17 05:24:31.743000+00:00,-91.0436,13.8344,earthquake
+USGS,"M 5.3 - 155 km SSE of Hihifo, Tonga","155 km SSE of Hihifo, Tonga",5.3,2026-09-17 04:06:53.528000+00:00,-173.4476,-17.3232,earthquake
+USGS,M 4.5 - Kermadec Islands region,Kermadec Islands region,4.5,2026-09-17 00:43:13.231000+00:00,-178.8397,-31.6743,earthquake
+USGS,M 4.5 - Balleny Islands region,Balleny Islands region,4.5,2026-09-16 21:29:33.994000+00:00,166.362,-62.7008,earthquake
+USGS,"M 5.0 - 136 km ENE of Georgetown, Saint Helena","136 km ENE of Georgetown, Saint Helena",5.0,2026-09-16 21:06:52.537000+00:00,-13.3461,-7.304,earthquake
+USGS,"M 4.7 - 27 km SW of Sipí, Colombia","27 km SW of Sipí, Colombia",4.7,2026-09-16 20:55:00.902000+00:00,-76.8006,4.46,earthquake
+USGS,"M 5.1 - 190 km ESE of Kimbe, Papua New Guinea","190 km ESE of Kimbe, Papua New Guinea",5.1,2026-09-16 20:21:24.473000+00:00,151.7908,-6.0303,earthquake
+USGS,"M 4.9 - 24 km WSW of Sipí, Colombia","24 km WSW of Sipí, Colombia",4.9,2026-09-16 20:12:52.374000+00:00,-76.8399,4.5496,earthquake
+USGS,"M 4.9 - Kermadec Islands, New Zealand","Kermadec Islands, New Zealand",4.9,2026-09-16 20:03:35.025000+00:00,-177.5927,-30.2154,earthquake
+USGS,"M 4.6 - 43 km SE of Madang, Papua New Guinea","43 km SE of Madang, Papua New Guinea",4.6,2026-09-16 19:37:05.143000+00:00,146.0172,-5.5399,earthquake
+USGS,"M 5.1 - 80 km SSW of San Jose Village, Northern Mariana Islands","80 km SSW of San Jose Village, Northern Mariana Islands",5.1,2026-09-16 18:06:40.400000+00:00,145.4199,14.2719,earthquake
+USGS,"M 4.8 - 1 km SE of Ishige, Japan","1 km SE of Ishige, Japan",4.8,2026-09-16 15:07:38.656000+00:00,139.9782,36.1092,earthquake
+USGS,"M 4.5 - 6 km NW of Āwash, Ethiopia","6 km NW of Āwash, Ethiopia",4.5,2026-09-16 12:33:23.712000+00:00,40.13,9.0247,earthquake
+USGS,"M 4.9 - 64 km E of Kinablangan, Philippines","64 km E of Kinablangan, Philippines",4.9,2026-09-16 11:50:12.695000+00:00,127.1328,7.7513,earthquake
+USGS,"M 4.7 - 6 km WSW of Port-Olry, Vanuatu","6 km WSW of Port-Olry, Vanuatu",4.7,2026-09-16 09:41:47.654000+00:00,167.0164,-15.0655,earthquake
+USGS,"M 5.1 - 172 km ESE of Saipan, Northern Mariana Islands","172 km ESE of Saipan, Northern Mariana Islands",5.1,2026-09-16 08:37:00.012000+00:00,147.1141,14.3886,earthquake
+USGS,"M 4.8 - 47 km WSW of Bahía Solano, Colombia","47 km WSW of Bahía Solano, Colombia",4.8,2026-09-16 07:02:13.029000+00:00,-77.8115,6.0969,earthquake
+USGS,"M 4.6 - 23 km SW of Sipí, Colombia","23 km SW of Sipí, Colombia",4.6,2026-09-16 06:18:06.190000+00:00,-76.7822,4.495,earthquake
+USGS,"M 5.0 - 281 km SSE of Dunhuang, China","281 km SSE of Dunhuang, China",5.0,2026-09-16 05:52:03.328000+00:00,95.4963,37.7078,earthquake
+USGS,"M 5.0 - 71 km SSW of Ocós, Guatemala","71 km SSW of Ocós, Guatemala",5.0,2026-09-16 03:45:02.896000+00:00,-92.4659,13.9242,earthquake
+USGS,"M 4.5 - 44 km NNW of Duaca, Venezuela","44 km NNW of Duaca, Venezuela",4.5,2026-09-16 01:37:17.469000+00:00,-69.2761,10.6763,earthquake
+USGS,"M 4.7 - 157 km N of Caluula, Somalia","157 km N of Caluula, Somalia",4.7,2026-09-15 23:46:59.088000+00:00,50.7844,13.3907,earthquake
+USGS,"M 4.5 - 12 km WNW of Palora, Ecuador","12 km WNW of Palora, Ecuador",4.5,2026-09-15 23:45:06.526000+00:00,-78.06,-1.6399,earthquake
+USGS,"M 4.7 - 106 km NE of Hihifo, Tonga","106 km NE of Hihifo, Tonga",4.7,2026-09-15 22:05:25.947000+00:00,-173.1703,-15.2019,earthquake
+USGS,"M 4.7 - 94 km NE of Yonakuni, Japan","94 km NE of Yonakuni, Japan",4.7,2026-09-15 21:00:34.916000+00:00,123.6411,25.0843,earthquake
+USGS,"M 4.5 - 55 km SSW of Bengkulu, Indonesia","55 km SSW of Bengkulu, Indonesia",4.5,2026-09-15 16:12:49.382000+00:00,102.0754,-4.2614,earthquake
+USGS,"M 4.5 - 251 km E of Lospalos, Timor Leste","251 km E of Lospalos, Timor Leste",4.5,2026-09-15 14:16:11.033000+00:00,129.2771,-8.3244,earthquake
+USGS,"M 4.7 - 120 km S of Panguna, Papua New Guinea","120 km S of Panguna, Papua New Guinea",4.7,2026-09-15 11:34:58.788000+00:00,155.3847,-7.3986,earthquake
+USGS,"M 4.7 - 99 km S of Panguna, Papua New Guinea","99 km S of Panguna, Papua New Guinea",4.7,2026-09-15 10:20:14.786000+00:00,155.3788,-7.2054,earthquake
+USGS,"M 4.8 - 289 km WSW of Tual, Indonesia","289 km WSW of Tual, Indonesia",4.8,2026-09-15 06:07:52.712000+00:00,130.3422,-6.6349,earthquake
+USGS,"M 4.8 - 229 km E of Tadine, New Caledonia","229 km E of Tadine, New Caledonia",4.8,2026-09-15 04:52:26.905000+00:00,170.0923,-21.5813,earthquake
+USGS,"M 4.8 - 127 km NW of Lautoka, Fiji","127 km NW of Lautoka, Fiji",4.8,2026-09-14 23:52:47.098000+00:00,176.6053,-16.7951,earthquake
+USGS,"M 4.5 - 64 km SSW of Patea, New Zealand","64 km SSW of Patea, New Zealand",4.5,2026-09-14 22:44:47.054000+00:00,174.1808,-40.2954,earthquake
+USGS,"M 4.6 - 24 km SW of Sipí, Colombia","24 km SW of Sipí, Colombia",4.6,2026-09-14 22:39:04.026000+00:00,-76.7671,4.474,earthquake
+USGS,"M 5.0 - 68 km NW of Lae, Papua New Guinea","68 km NW of Lae, Papua New Guinea",5.0,2026-09-14 22:06:53.245000+00:00,146.5802,-6.2639,earthquake
+USGS,"M 4.5 - 226 km NW of Tobelo, Indonesia","226 km NW of Tobelo, Indonesia",4.5,2026-09-14 21:17:25.272000+00:00,126.5358,3.1402,earthquake
+USGS,"M 4.9 - 28 km WSW of Sipí, Colombia","28 km WSW of Sipí, Colombia",4.9,2026-09-14 21:13:16.278000+00:00,-76.8767,4.5502,earthquake
+USGS,M 4.5 - Mid-Indian Ridge,Mid-Indian Ridge,4.5,2026-09-14 20:58:48.680000+00:00,67.4078,-20.0229,earthquake
+USGS,"M 5.3 - off the coast of Michoacan, Mexico","off the coast of Michoacan, Mexico",5.3,2026-09-14 20:38:59.588000+00:00,-104.2162,15.117,earthquake
+USGS,"M 4.6 - 28 km SW of Sipí, Colombia","28 km SW of Sipí, Colombia",4.6,2026-09-14 20:08:04.768000+00:00,-76.8214,4.4634,earthquake
+USGS,"M 4.9 - 18 km SSW of Sipí, Colombia","18 km SSW of Sipí, Colombia",4.9,2026-09-14 20:02:04.673000+00:00,-76.7177,4.5034,earthquake
+USGS,"M 4.8 - 148 km ESE of Kandrian, Papua New Guinea","148 km ESE of Kandrian, Papua New Guinea",4.8,2026-09-14 19:28:53.689000+00:00,150.7071,-6.8916,earthquake
+USGS,"M 4.8 - 107 km WSW of Alianza Cristiana, Peru","107 km WSW of Alianza Cristiana, Peru",4.8,2026-09-14 19:16:49.717000+00:00,-77.3641,-3.7448,earthquake
+USGS,"M 4.6 - 154 km SSE of Labuha, Indonesia","154 km SSE of Labuha, Indonesia",4.6,2026-09-14 17:55:15.372000+00:00,128.1779,-1.8336,earthquake
+USGS,"M 5.1 - 147 km SE of Gizo, Solomon Islands","147 km SE of Gizo, Solomon Islands",5.1,2026-09-14 16:15:05.794000+00:00,157.8632,-8.973,earthquake
+USGS,"M 4.5 - 16 km SSW of Sipí, Colombia","16 km SSW of Sipí, Colombia",4.5,2026-09-14 14:57:10.300000+00:00,-76.6989,4.5173,earthquake
+USGS,"M 4.6 - 49 km E of Minami-Sōma, Japan","49 km E of Minami-Sōma, Japan",4.6,2026-09-14 10:59:54.677000+00:00,141.5344,37.6068,earthquake
+USGS,"M 5.6 - 78 km NNE of Tobelo, Indonesia","78 km NNE of Tobelo, Indonesia",5.6,2026-09-14 10:58:03.047000+00:00,128.1704,2.4223,earthquake
+USGS,"M 5.5 - 187 km SSW of Pelabuhanratu, Indonesia","187 km SSW of Pelabuhanratu, Indonesia",5.5,2026-09-14 09:27:38.536000+00:00,105.8726,-8.5419,earthquake
+USGS,"M 4.5 - 71 km NE of Simao, China","71 km NE of Simao, China",4.5,2026-09-14 09:07:29.558000+00:00,101.406,23.2962,earthquake
+USGS,"M 4.5 - 109 km E of Tomioka, Japan","109 km E of Tomioka, Japan",4.5,2026-09-14 07:33:04.419000+00:00,142.2375,37.1853,earthquake
+USGS,"M 4.5 - 97 km NNE of Mount Hagen, Papua New Guinea","97 km NNE of Mount Hagen, Papua New Guinea",4.5,2026-09-14 06:19:11.496000+00:00,144.6082,-5.0593,earthquake
+USGS,M 4.9 - northern Mid-Atlantic Ridge,northern Mid-Atlantic Ridge,4.9,2026-09-14 02:56:57.937000+00:00,-45.406,25.6619,earthquake
+USGS,M 5.4 - northern Mid-Atlantic Ridge,northern Mid-Atlantic Ridge,5.4,2026-09-14 02:56:17.419000+00:00,-45.3828,25.5449,earthquake
+USGS,"M 4.8 - 119 km S of Dampit, Indonesia","119 km S of Dampit, Indonesia",4.8,2026-09-14 01:42:08.967000+00:00,112.9014,-9.2825,earthquake
+USGS,"M 4.5 - 50 km NNW of Ruteng, Indonesia","50 km NNW of Ruteng, Indonesia",4.5,2026-09-14 00:53:46.937000+00:00,120.3526,-8.1707,earthquake
+USGS,M 4.6 - Mid-Indian Ridge,Mid-Indian Ridge,4.6,2026-09-14 00:20:59.900000+00:00,67.2916,-20.1857,earthquake
+USGS,M 4.6 - Mid-Indian Ridge,Mid-Indian Ridge,4.6,2026-09-13 23:27:47.729000+00:00,67.5504,-20.1437,earthquake
+USGS,"M 4.6 - 116 km NE of Hengchun, Taiwan","116 km NE of Hengchun, Taiwan",4.6,2026-09-13 22:44:41.189000+00:00,121.5961,22.7027,earthquake
+USGS,"M 5.0 - 51 km NE of Labuan Bajo, Indonesia","51 km NE of Labuan Bajo, Indonesia",5.0,2026-09-13 22:40:01.429000+00:00,120.2331,-8.1863,earthquake
+USGS,"M 4.8 - 74 km SSW of Isangel, Vanuatu","74 km SSW of Isangel, Vanuatu",4.8,2026-09-13 19:41:43.064000+00:00,168.9078,-20.1089,earthquake
+USGS,"M 4.7 - 64 km W of Cafayate, Argentina","64 km W of Cafayate, Argentina",4.7,2026-09-13 19:40:25.496000+00:00,-66.6119,-26.1509,earthquake
+USGS,"M 4.7 - 28 km N of Mutsu, Japan","28 km N of Mutsu, Japan",4.7,2026-09-13 08:31:15.508000+00:00,141.2795,41.5429,earthquake
+USGS,M 5.0 - southeast of the Loyalty Islands,southeast of the Loyalty Islands,5.0,2026-09-13 07:30:23.229000+00:00,171.2181,-22.3898,earthquake
+USGS,"M 5.2 - 35 km NE of Luganville, Vanuatu","35 km NE of Luganville, Vanuatu",5.2,2026-09-13 07:19:23.968000+00:00,167.3824,-15.2804,earthquake
+USGS,"M 4.8 - Bonin Islands, Japan region","Bonin Islands, Japan region",4.8,2026-09-13 03:50:31.912000+00:00,142.3174,26.257,earthquake
+USGS,"M 4.5 - 44 km NNW of Ende, Indonesia","44 km NNW of Ende, Indonesia",4.5,2026-09-13 03:14:42.043000+00:00,121.5341,-8.4577,earthquake
+USGS,"M 5.1 - 99 km S of Yudomari, Japan","99 km S of Yudomari, Japan",5.1,2026-09-12 20:32:57.905000+00:00,130.3836,29.3365,earthquake
+USGS,"M 4.8 - 21 km WSW of Lixoúri, Greece","21 km WSW of Lixoúri, Greece",4.8,2026-09-12 17:51:44.742000+00:00,20.2022,38.1323,earthquake
+USGS,"M 4.5 - 39 km NNE of Port-Olry, Vanuatu","39 km NNE of Port-Olry, Vanuatu",4.5,2026-09-12 15:56:08.082000+00:00,167.2146,-14.7118,earthquake
+USGS,"M 4.6 - 143 km SE of Kokopo, Papua New Guinea","143 km SE of Kokopo, Papua New Guinea",4.6,2026-09-12 12:46:16.016000+00:00,153.3109,-5.1136,earthquake
+USGS,"M 4.7 - 32 km SW of Sipí, Colombia","32 km SW of Sipí, Colombia",4.7,2026-09-12 11:16:11.650000+00:00,-76.8685,4.4611,earthquake
+USGS,M 4.9 - South Sandwich Islands region,South Sandwich Islands region,4.9,2026-09-12 11:05:46.433000+00:00,-26.9013,-56.2951,earthquake
+USGS,"M 4.8 - 124 km WNW of Sola, Vanuatu","124 km WNW of Sola, Vanuatu",4.8,2026-09-12 09:35:49.382000+00:00,166.4985,-13.4125,earthquake
+USGS,"M 4.5 - 63 km WSW of Santiago, Peru","63 km WSW of Santiago, Peru",4.5,2026-09-12 08:46:38.186000+00:00,-76.2161,-14.4855,earthquake
+USGS,"M 4.8 - 253 km WSW of Tual, Indonesia","253 km WSW of Tual, Indonesia",4.8,2026-09-12 06:14:30.594000+00:00,130.5082,-6.0912,earthquake
+USGS,"M 4.7 - 94 km WNW of Ternate, Indonesia","94 km WNW of Ternate, Indonesia",4.7,2026-09-12 05:08:24.039000+00:00,126.5851,1.0665,earthquake
+USGS,"M 4.5 - 14 km NNE of Namuac, Philippines","14 km NNE of Namuac, Philippines",4.5,2026-09-12 04:10:14.081000+00:00,121.1983,18.7346,earthquake
+USGS,"M 4.5 - 157 km SSE of Port Blair, India","157 km SSE of Port Blair, India",4.5,2026-09-12 03:59:09.231000+00:00,93.1932,10.3114,earthquake
+USGS,"M 4.7 - 0 km NE of Manaca Civil, Panama","0 km NE of Manaca Civil, Panama",4.7,2026-09-12 01:59:50.236000+00:00,-82.8155,8.329,earthquake
+USGS,M 5.1 - South Sandwich Islands region,South Sandwich Islands region,5.1,2026-09-12 00:55:08.418000+00:00,-24.9274,-59.1348,earthquake
+USGS,"M 4.5 - 9 km WNW of Quicacha, Peru","9 km WNW of Quicacha, Peru",4.5,2026-09-12 00:18:59.059000+00:00,-73.8803,-15.606,earthquake
+USGS,"M 4.9 - 235 km W of Puerto Chacabuco, Chile","235 km W of Puerto Chacabuco, Chile",4.9,2026-09-11 22:32:23.645000+00:00,-75.8153,-45.7183,earthquake
+USGS,"M 6.5 - 126 km NNE of Teluknaga, Indonesia","126 km NNE of Teluknaga, Indonesia",6.5,2026-09-11 21:23:55.907000+00:00,106.8742,-4.9832,earthquake
+USGS,"M 4.5 - 118 km E of Noda, Japan","118 km E of Noda, Japan",4.5,2026-09-11 18:53:29.398000+00:00,143.2113,40.0877,earthquake
+USGS,"M 4.7 - 27 km SW of Sipí, Colombia","27 km SW of Sipí, Colombia",4.7,2026-09-11 16:42:31.376000+00:00,-76.8003,4.4626,earthquake
+USGS,M 4.9 - south of the Kermadec Islands,south of the Kermadec Islands,4.9,2026-09-11 15:44:35.533000+00:00,-178.8259,-32.5696,earthquake
+USGS,"M 5.9 - 253 km ENE of Lospalos, Timor Leste","253 km ENE of Lospalos, Timor Leste",5.9,2026-09-11 11:56:23.115000+00:00,128.9383,-7.2863,earthquake
+USGS,"M 5.3 - 151 km WSW of Adak, Alaska","151 km WSW of Adak, Alaska",5.3,2026-09-11 10:47:12.613000+00:00,-178.5429,51.213,earthquake
+USGS,"M 4.5 - 271 km WNW of Longyearbyen, Svalbard and Jan Mayen","271 km WNW of Longyearbyen, Svalbard and Jan Mayen",4.5,2026-09-11 08:59:58.609000+00:00,5.088,79.5726,earthquake
+USGS,"M 4.5 - 89 km S of False Pass, Alaska","89 km S of False Pass, Alaska",4.5,2026-09-11 07:31:46.340000+00:00,-163.1545,54.0611,earthquake
+USGS,"M 4.9 - 69 km N of Isangel, Vanuatu","69 km N of Isangel, Vanuatu",4.9,2026-09-11 02:28:13.071000+00:00,169.3953,-18.9259,earthquake
+USGS,"M 4.9 - 65 km NNW of Sola, Vanuatu","65 km NNW of Sola, Vanuatu",4.9,2026-09-10 22:54:14.162000+00:00,167.3321,-13.3249,earthquake
+USGS,M 4.9 - south of Tonga,south of Tonga,4.9,2026-09-10 20:46:22.746000+00:00,-175.3398,-24.6675,earthquake
+USGS,"M 4.5 - 159 km WNW of Panguna, Papua New Guinea","159 km WNW of Panguna, Papua New Guinea",4.5,2026-09-10 19:55:35.690000+00:00,154.2701,-5.5451,earthquake
+USGS,"M 5.3 - 80 km E of Lospalos, Timor Leste","80 km E of Lospalos, Timor Leste",5.3,2026-09-10 18:44:40.075000+00:00,127.729,-8.5223,earthquake
+USGS,M 5.4 - southern East Pacific Rise,southern East Pacific Rise,5.4,2026-09-10 18:21:19.077000+00:00,-109.1447,-34.7752,earthquake
+USGS,"M 4.6 - 28 km S of Quepos, Costa Rica","28 km S of Quepos, Costa Rica",4.6,2026-09-10 18:04:04.276000+00:00,-84.1473,9.1718,earthquake
+USGS,"M 4.7 - 70 km WSW of Zhaotong, China","70 km WSW of Zhaotong, China",4.7,2026-09-10 16:53:33.841000+00:00,103.0297,27.1446,earthquake
+USGS,"M 4.7 - 263 km N of Puerto Ayora, Ecuador","263 km N of Puerto Ayora, Ecuador",4.7,2026-09-10 14:15:53.168000+00:00,-90.6441,1.6184,earthquake
+USGS,"M 4.7 - 168 km SSW of Merizo Village, Guam","168 km SSW of Merizo Village, Guam",4.7,2026-09-10 13:35:05.103000+00:00,143.9047,11.945,earthquake
+USGS,"M 4.5 - 86 km SW of Puerto Madero, Mexico","86 km SW of Puerto Madero, Mexico",4.5,2026-09-10 13:29:03.836000+00:00,-92.9951,14.1688,earthquake
+USGS,"M 5.1 - 163 km SW of Merizo Village, Guam","163 km SW of Merizo Village, Guam",5.1,2026-09-10 13:28:15.938000+00:00,143.8288,12.0362,earthquake
+USGS,"M 4.8 - 35 km SSE of Cliza, Bolivia","35 km SSE of Cliza, Bolivia",4.8,2026-09-10 12:05:53.736000+00:00,-65.8339,-17.8933,earthquake
+USGS,"M 4.7 - 116 km WSW of Alianza Cristiana, Peru","116 km WSW of Alianza Cristiana, Peru",4.7,2026-09-10 10:39:36.283000+00:00,-77.3635,-3.9669,earthquake
+USGS,"M 5.0 - 44 km SSE of Quepos, Costa Rica","44 km SSE of Quepos, Costa Rica",5.0,2026-09-10 08:26:53.928000+00:00,-84.0167,9.057,earthquake
+USGS,"M 5.3 - 123 km WSW of Alianza Cristiana, Peru","123 km WSW of Alianza Cristiana, Peru",5.3,2026-09-10 06:42:40.227000+00:00,-77.4661,-3.8999,earthquake
+USGS,M 4.8 - Mid-Indian Ridge,Mid-Indian Ridge,4.8,2026-09-09 21:29:54.366000+00:00,74.3255,-28.559,earthquake
+USGS,"M 4.7 - 158 km SSE of Isangel, Vanuatu","158 km SSE of Isangel, Vanuatu",4.7,2026-09-09 20:21:12.084000+00:00,169.8461,-20.8661,earthquake
+USGS,"M 4.6 - 25 km SE of Rasht, Tajikistan","25 km SE of Rasht, Tajikistan",4.6,2026-09-09 20:17:10.315000+00:00,70.5965,38.8791,earthquake
+USGS,"M 4.9 - 78 km ESE of Isangel, Vanuatu","78 km ESE of Isangel, Vanuatu",4.9,2026-09-09 19:15:11.749000+00:00,170.0126,-19.7045,earthquake
+USGS,M 4.6 - Fiji region,Fiji region,4.6,2026-09-09 18:19:02.792000+00:00,-178.1379,-20.6761,earthquake
+USGS,"M 4.6 - 62 km E of Saipan, Northern Mariana Islands","62 km E of Saipan, Northern Mariana Islands",4.6,2026-09-09 17:59:02.321000+00:00,146.3353,15.2793,earthquake
+USGS,"M 4.6 - 61 km NW of Pante Makasar, Timor Leste","61 km NW of Pante Makasar, Timor Leste",4.6,2026-09-09 17:45:52.505000+00:00,123.9956,-8.805,earthquake
+USGS,"M 5.1 - 85 km ESE of Isangel, Vanuatu","85 km ESE of Isangel, Vanuatu",5.1,2026-09-09 17:18:45.412000+00:00,170.0654,-19.7601,earthquake
+USGS,"M 5.2 - 77 km ESE of Isangel, Vanuatu","77 km ESE of Isangel, Vanuatu",5.2,2026-09-09 17:01:52.187000+00:00,169.9611,-19.8119,earthquake
+USGS,"M 4.5 - 97 km NNE of Hihifo, Tonga","97 km NNE of Hihifo, Tonga",4.5,2026-09-09 12:18:18.632000+00:00,-173.3756,-15.1723,earthquake
+USGS,"M 4.5 - 63 km N of Naisano Dua, Indonesia","63 km N of Naisano Dua, Indonesia",4.5,2026-09-09 11:12:15.206000+00:00,123.7265,-9.0233,earthquake
+USGS,"M 4.6 - 30 km WSW of Jiyuan, China","30 km WSW of Jiyuan, China",4.6,2026-09-09 10:51:39.030000+00:00,112.2721,34.9738,earthquake
+USGS,M 4.5 - southeast of Easter Island,southeast of Easter Island,4.5,2026-09-09 10:38:01.945000+00:00,-100.0386,-36.2377,earthquake
+USGS,"M 4.6 - 224 km NE of Xilin Hot, China","224 km NE of Xilin Hot, China",4.6,2026-09-09 10:12:08.894000+00:00,118.2598,45.2076,earthquake
+USGS,"M 4.9 - 62 km W of Cafayate, Argentina","62 km W of Cafayate, Argentina",4.9,2026-09-09 10:06:57.769000+00:00,-66.6066,-26.0568,earthquake
+USGS,"M 5.0 - 162 km SSW of Sarangani, Philippines","162 km SSW of Sarangani, Philippines",5.0,2026-09-09 07:07:02.446000+00:00,125.0457,3.9944,earthquake
+USGS,M 4.5 - east of the Kuril Islands,east of the Kuril Islands,4.5,2026-09-09 02:22:06.221000+00:00,155.8112,46.8141,earthquake
+USGS,M 4.9 - Pacific-Antarctic Ridge,Pacific-Antarctic Ridge,4.9,2026-09-09 02:10:17.390000+00:00,-138.8564,-56.1698,earthquake
+USGS,M 4.9 - Pacific-Antarctic Ridge,Pacific-Antarctic Ridge,4.9,2026-09-09 02:06:26.017000+00:00,-138.9676,-55.989,earthquake
+USGS,M 4.5 - central East Pacific Rise,central East Pacific Rise,4.5,2026-09-09 01:53:15.663000+00:00,-108.2788,-9.0824,earthquake
+USGS,M 4.9 - Mariana Islands region,Mariana Islands region,4.9,2026-09-08 23:23:42.258000+00:00,148.4607,16.6148,earthquake
+USGS,"M 4.9 - 208 km ENE of Neiafu, Tonga","208 km ENE of Neiafu, Tonga",4.9,2026-09-08 21:57:33.219000+00:00,-172.2456,-17.7572,earthquake
+USGS,"M 4.6 - 47 km N of Ruteng, Indonesia","47 km N of Ruteng, Indonesia",4.6,2026-09-08 21:42:22.401000+00:00,120.5204,-8.1811,earthquake
+USGS,"M 4.5 - Kermadec Islands, New Zealand","Kermadec Islands, New Zealand",4.5,2026-09-08 16:43:04.516000+00:00,-177.6582,-30.372,earthquake
+USGS,"M 4.9 - 91 km NNE of Chitre, Nepal","91 km NNE of Chitre, Nepal",4.9,2026-09-08 16:08:34.802000+00:00,83.9688,29.2121,earthquake
+USGS,"M 4.9 - 55 km ESE of Hihifo, Tonga","55 km ESE of Hihifo, Tonga",4.9,2026-09-08 15:43:57.208000+00:00,-173.2992,-16.083,earthquake
+USGS,"M 5.2 - 118 km NNE of Ruteng, Indonesia","118 km NNE of Ruteng, Indonesia",5.2,2026-09-08 15:36:34.825000+00:00,121.0531,-7.7172,earthquake
+USGS,"M 4.5 - 93 km SSW of Severo-Kuril’sk, Russia","93 km SSW of Severo-Kuril’sk, Russia",4.5,2026-09-08 14:13:11.631000+00:00,155.7923,49.8648,earthquake
+USGS,"M 4.7 - 59 km WSW of Ollagüe, Chile","59 km WSW of Ollagüe, Chile",4.7,2026-09-08 13:42:08.949000+00:00,-68.8062,-21.3735,earthquake
+USGS,"M 5.1 - 34 km NNW of Neiafu, Tonga","34 km NNW of Neiafu, Tonga",5.1,2026-09-08 11:51:19.507000+00:00,-174.1334,-18.3792,earthquake
+USGS,"M 4.6 - 5 km NNW of Katochí, Greece","5 km NNW of Katochí, Greece",4.6,2026-09-08 07:46:29.632000+00:00,21.2197,38.4519,earthquake
+USGS,M 4.6 - South Sandwich Islands region,South Sandwich Islands region,4.6,2026-09-08 07:01:39.438000+00:00,-25.9102,-58.1622,earthquake
+USGS,M 5.2 - South Sandwich Islands region,South Sandwich Islands region,5.2,2026-09-08 06:50:44.395000+00:00,-26.1187,-58.0932,earthquake
+USGS,"M 4.8 - 49 km NNW of Aroa, Venezuela","49 km NNW of Aroa, Venezuela",4.8,2026-09-08 06:49:49.162000+00:00,-69.1186,10.8301,earthquake
+USGS,"M 5.2 - 51 km N of Ruteng, Indonesia","51 km N of Ruteng, Indonesia",5.2,2026-09-08 04:40:28.006000+00:00,120.5257,-8.152,earthquake
+USGS,"M 4.6 - 170 km SSE of Vilyuchinsk, Russia","170 km SSE of Vilyuchinsk, Russia",4.6,2026-09-08 02:34:21.728000+00:00,159.769,51.6426,earthquake
+USGS,M 4.5 - south of the Fiji Islands,south of the Fiji Islands,4.5,2026-09-08 01:39:35.100000+00:00,-179.7368,-22.3966,earthquake
+USGS,"M 4.5 - 65 km NNE of Labuan Bajo, Indonesia","65 km NNE of Labuan Bajo, Indonesia",4.5,2026-09-08 01:28:47.332000+00:00,120.1133,-7.9448,earthquake
+USGS,"M 5.2 - 100 km ESE of Isangel, Vanuatu","100 km ESE of Isangel, Vanuatu",5.2,2026-09-08 00:52:01.884000+00:00,170.1855,-19.831,earthquake
+USGS,"M 4.6 - 30 km SW of Zhaotong, China","30 km SW of Zhaotong, China",4.6,2026-09-07 17:31:42.184000+00:00,103.4912,27.1287,earthquake
+USGS,M 5.5 - southeast of the Loyalty Islands,southeast of the Loyalty Islands,5.5,2026-09-07 05:50:44.117000+00:00,171.7053,-23.4337,earthquake
+USGS,M 4.6 - Kermadec Islands region,Kermadec Islands region,4.6,2026-09-07 02:30:21.761000+00:00,178.7409,-31.2664,earthquake
+USGS,M 4.5 - south of the Fiji Islands,south of the Fiji Islands,4.5,2026-09-07 02:29:41.475000+00:00,179.6636,-24.8302,earthquake
+USGS,M 4.9 - Kermadec Islands region,Kermadec Islands region,4.9,2026-09-07 02:11:50.700000+00:00,178.569,-31.0737,earthquake
+USGS,M 5.0 - Kermadec Islands region,Kermadec Islands region,5.0,2026-09-07 02:06:47.128000+00:00,178.671,-30.9411,earthquake
+USGS,M 5.3 - off the coast of Oregon,off the coast of Oregon,5.3,2026-09-07 01:30:24.425000+00:00,-128.2806,43.8953,earthquake
+USGS,"M 4.5 - 237 km E of Levuka, Fiji","237 km E of Levuka, Fiji",4.5,2026-09-06 21:08:44.036000+00:00,-178.4437,-17.9111,earthquake
+USGS,"M 4.8 - 44 km SW of Copala, Mexico","44 km SW of Copala, Mexico",4.8,2026-09-06 18:46:18.374000+00:00,-99.2958,16.3468,earthquake
+USGS,"M 4.5 - 98 km NE of Hengchun, Taiwan","98 km NE of Hengchun, Taiwan",4.5,2026-09-06 16:37:00.983000+00:00,121.3793,22.6648,earthquake
+USGS,M 4.6 - Svalbard region,Svalbard region,4.6,2026-09-06 12:50:34.905000+00:00,7.2182,76.1447,earthquake
+USGS,"M 4.5 - 211 km SSE of Wada, Japan","211 km SSE of Wada, Japan",4.5,2026-09-06 12:17:16.063000+00:00,140.9634,33.3022,earthquake
+USGS,M 5.2 - southern East Pacific Rise,southern East Pacific Rise,5.2,2026-09-06 12:00:15.193000+00:00,-115.9109,-24.3673,earthquake
+USGS,"M 4.5 - 103 km NNW of Pante Makasar, Timor Leste","103 km NNW of Pante Makasar, Timor Leste",4.5,2026-09-06 11:15:47.641000+00:00,123.9757,-8.359,earthquake
+USGS,M 4.8 - southern East Pacific Rise,southern East Pacific Rise,4.8,2026-09-06 10:52:29.231000+00:00,-115.7372,-23.9329,earthquake
+USGS,"M 4.9 - 23 km NE of Calama, Chile","23 km NE of Calama, Chile",4.9,2026-09-06 10:39:32.129000+00:00,-68.7705,-22.299,earthquake
+USGS,M 5.1 - southern East Pacific Rise,southern East Pacific Rise,5.1,2026-09-06 10:38:19.070000+00:00,-116.2065,-24.3833,earthquake
+USGS,M 5.2 - southern East Pacific Rise,southern East Pacific Rise,5.2,2026-09-06 10:32:28.205000+00:00,-115.6508,-24.4882,earthquake
+USGS,"M 4.6 - 61 km WSW of Cafayate, Argentina","61 km WSW of Cafayate, Argentina",4.6,2026-09-06 09:24:37.230000+00:00,-66.5759,-26.1961,earthquake
+USGS,M 4.5 - South Sandwich Islands region,South Sandwich Islands region,4.5,2026-09-06 07:56:02.805000+00:00,-29.8127,-55.6158,earthquake
+USGS,"M 4.6 - 93 km WSW of Panguna, Papua New Guinea","93 km WSW of Panguna, Papua New Guinea",4.6,2026-09-06 06:44:30.078000+00:00,154.6623,-6.4959,earthquake
+USGS,"M 4.6 - 85 km NNE of Luwuk, Indonesia","85 km NNE of Luwuk, Indonesia",4.6,2026-09-06 06:41:21.423000+00:00,123.2092,-0.304,earthquake
+USGS,"M 4.9 - 113 km ENE of Kuji, Japan","113 km ENE of Kuji, Japan",4.9,2026-09-06 05:15:46.477000+00:00,142.9012,40.7395,earthquake
+USGS,M 4.7 - Kermadec Islands region,Kermadec Islands region,4.7,2026-09-06 04:52:40.083000+00:00,-176.7331,-28.6619,earthquake
+USGS,"M 5.6 - 98 km SE of Kirakira, Solomon Islands","98 km SE of Kirakira, Solomon Islands",5.6,2026-09-06 04:05:30.388000+00:00,162.5482,-11.0903,earthquake
+USGS,"M 5.3 - 112 km SW of Puerto Madero, Mexico","112 km SW of Puerto Madero, Mexico",5.3,2026-09-06 02:56:32.445000+00:00,-93.2813,14.1459,earthquake
+USGS,"M 4.5 - 75 km N of Isangel, Vanuatu","75 km N of Isangel, Vanuatu",4.5,2026-09-05 23:46:26.386000+00:00,169.2307,-18.8591,earthquake
+USGS,"M 4.7 - 94 km ESE of Isangel, Vanuatu","94 km ESE of Isangel, Vanuatu",4.7,2026-09-05 21:06:01.394000+00:00,170.0943,-19.9011,earthquake
+USGS,"M 4.9 - 85 km SSW of Nikolski, Alaska","85 km SSW of Nikolski, Alaska",4.9,2026-09-05 18:00:08.219000+00:00,-169.32,52.2263,earthquake
+USGS,M 5.4 - Carlsberg Ridge,Carlsberg Ridge,5.4,2026-09-05 17:25:52.639000+00:00,67.803,-0.503,earthquake
+USGS,"M 5.6 - 89 km ESE of Isangel, Vanuatu","89 km ESE of Isangel, Vanuatu",5.6,2026-09-05 17:02:11.369000+00:00,170.1102,-19.7418,earthquake
+USGS,"M 4.5 - 80 km W of Tobelo, Indonesia","80 km W of Tobelo, Indonesia",4.5,2026-09-05 15:15:03.073000+00:00,127.2861,1.7141,earthquake
+USGS,"M 4.6 - 128 km SSW of Merizo Village, Guam","128 km SSW of Merizo Village, Guam",4.6,2026-09-05 14:38:18.794000+00:00,144.045,12.2781,earthquake
+USGS,"M 5.5 - 163 km E of Kokopo, Papua New Guinea","163 km E of Kokopo, Papua New Guinea",5.5,2026-09-05 14:12:07.079000+00:00,153.7224,-4.5724,earthquake
+USGS,"M 5.2 - 79 km SSW of Sibolga, Indonesia","79 km SSW of Sibolga, Indonesia",5.2,2026-09-05 14:06:06.990000+00:00,98.5931,1.0484,earthquake
+USGS,"M 4.6 - 11 km WNW of Putat, Philippines","11 km WNW of Putat, Philippines",4.6,2026-09-05 13:10:21.482000+00:00,123.7479,10.8107,earthquake
+USGS,"M 4.5 - 59 km NNE of Ruteng, Indonesia","59 km NNE of Ruteng, Indonesia",4.5,2026-09-05 12:35:00.376000+00:00,120.7002,-8.1275,earthquake
+USGS,"M 5.1 - 61 km W of Cafayate, Argentina","61 km W of Cafayate, Argentina",5.1,2026-09-05 11:37:12.281000+00:00,-66.5901,-26.1121,earthquake
+USGS,"M 4.9 - 63 km WSW of Pagar Alam, Indonesia","63 km WSW of Pagar Alam, Indonesia",4.9,2026-09-05 10:59:17.893000+00:00,102.745,-4.2988,earthquake
+USGS,M 4.6 - Mid-Indian Ridge,Mid-Indian Ridge,4.6,2026-09-05 10:54:04.830000+00:00,67.4744,-9.0092,earthquake
+USGS,"M 4.5 - 79 km SW of Blangpidie, Indonesia","79 km SW of Blangpidie, Indonesia",4.5,2026-09-05 09:14:20.961000+00:00,96.2796,3.2828,earthquake
+USGS,"M 4.6 - 56 km W of Cafayate, Argentina","56 km W of Cafayate, Argentina",4.6,2026-09-05 06:54:59.988000+00:00,-66.5374,-26.0878,earthquake
+USGS,"M 4.5 - 78 km S of Gorontalo, Indonesia","78 km S of Gorontalo, Indonesia",4.5,2026-09-05 06:34:53.259000+00:00,123.1871,-0.1588,earthquake
+USGS,M 4.6 - south of the Kermadec Islands,south of the Kermadec Islands,4.6,2026-09-05 05:50:18.703000+00:00,-176.5867,-32.8781,earthquake
+USGS,M 5.0 - off the coast of Central America,off the coast of Central America,5.0,2026-09-05 05:00:07.354000+00:00,-83.0994,3.601,earthquake
+USGS,"M 4.5 - 85 km NW of Sinabang, Indonesia","85 km NW of Sinabang, Indonesia",4.5,2026-09-05 03:37:49.005000+00:00,95.941,3.1128,earthquake
+USGS,"M 4.9 - Kermadec Islands, New Zealand","Kermadec Islands, New Zealand",4.9,2026-09-05 01:41:02.256000+00:00,-177.9385,-30.6661,earthquake
+USGS,"M 4.5 - 163 km ENE of Noda, Japan","163 km ENE of Noda, Japan",4.5,2026-09-05 00:22:45.287000+00:00,143.6178,40.6344,earthquake
+USGS,"M 5.5 - 152 km E of Kuril’sk, Russia","152 km E of Kuril’sk, Russia",5.5,2026-09-04 23:52:30.709000+00:00,149.8017,45.0284,earthquake
+USGS,M 5.1 - central Mid-Atlantic Ridge,central Mid-Atlantic Ridge,5.1,2026-09-04 23:38:40.750000+00:00,-40.8105,9.3835,earthquake
+USGS,"M 4.5 - 49 km NE of Ruteng, Indonesia","49 km NE of Ruteng, Indonesia",4.5,2026-09-04 23:17:48.037000+00:00,120.8029,-8.316,earthquake
+USGS,"M 4.6 - 28 km NW of Raumati Beach, New Zealand","28 km NW of Raumati Beach, New Zealand",4.6,2026-09-04 18:34:01.468000+00:00,174.7564,-40.7313,earthquake

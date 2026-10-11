@@ -1,0 +1,41 @@
+source,event_type,title,location,lat,lon,coord_quality,coord_flag,severity,timestamp,magnitude
+USGS,earthquake,M 5.5 - southeast of the Loyalty Islands,southeast of the Loyalty Islands,-23.4337,171.7053,exact,valid,5.5,2026-09-07 05:50:44.117000+00:00,5.5
+USGS,earthquake,M 5.0 - southeast of the Loyalty Islands,southeast of the Loyalty Islands,-22.3898,171.2181,exact,valid,5.0,2026-09-13 07:30:23.229000+00:00,5.0
+USGS,earthquake,"M 4.8 - 229 km E of Tadine, New Caledonia","229 km E of Tadine, New Caledonia",-21.5813,170.0923,exact,valid,4.8,2026-09-15 04:52:26.905000+00:00,4.8
+USGS,earthquake,M 4.9 - southeast of the Loyalty Islands,southeast of the Loyalty Islands,-23.0473,171.7522,exact,valid,4.9,2026-09-20 22:09:59.182000+00:00,4.9
+USGS,earthquake,"M 6.6 - 80 km ENE of Tadine, New Caledonia","80 km ENE of Tadine, New Caledonia",-21.2982,168.61,exact,valid,6.6,2026-09-25 21:23:03.309000+00:00,6.6
+USGS,earthquake,"M 4.9 - 78 km NE of Tadine, New Caledonia","78 km NE of Tadine, New Caledonia",-21.1532,168.5092,exact,valid,4.9,2026-09-25 23:32:44.392000+00:00,4.9
+USGS,earthquake,"M 5.5 - 61 km ENE of Tadine, New Caledonia","61 km ENE of Tadine, New Caledonia",-21.3748,168.4446,exact,valid,5.5,2026-09-25 23:39:41.392000+00:00,5.5
+USGS,earthquake,"M 5.4 - 69 km ENE of Tadine, New Caledonia","69 km ENE of Tadine, New Caledonia",-21.2023,168.4346,exact,valid,5.4,2026-09-25 23:52:35.158000+00:00,5.4
+USGS,earthquake,"M 5.3 - 58 km ENE of Tadine, New Caledonia","58 km ENE of Tadine, New Caledonia",-21.2883,168.3721,exact,valid,5.3,2026-09-26 01:10:19.430000+00:00,5.3
+USGS,earthquake,"M 4.7 - 80 km ENE of Tadine, New Caledonia","80 km ENE of Tadine, New Caledonia",-21.2949,168.6129,exact,valid,4.7,2026-09-26 01:17:15.531000+00:00,4.7
+USGS,earthquake,"M 5.1 - 64 km ENE of Tadine, New Caledonia","64 km ENE of Tadine, New Caledonia",-21.227,168.4033,exact,valid,5.1,2026-09-26 05:50:48.716000+00:00,5.1
+USGS,earthquake,"M 5.1 - 68 km NE of Tadine, New Caledonia","68 km NE of Tadine, New Caledonia",-21.1943,168.4225,exact,valid,5.1,2026-09-26 07:08:02.558000+00:00,5.1
+USGS,earthquake,"M 5.0 - 84 km ENE of Tadine, New Caledonia","84 km ENE of Tadine, New Caledonia",-21.2249,168.614,exact,valid,5.0,2026-09-26 07:22:12.908000+00:00,5.0
+USGS,earthquake,"M 4.7 - 97 km NE of Tadine, New Caledonia","97 km NE of Tadine, New Caledonia",-21.0172,168.6325,exact,valid,4.7,2026-09-26 08:54:03.961000+00:00,4.7
+USGS,earthquake,"M 4.7 - 71 km ENE of Tadine, New Caledonia","71 km ENE of Tadine, New Caledonia",-21.2366,168.4865,exact,valid,4.7,2026-09-26 09:07:19.622000+00:00,4.7
+USGS,earthquake,"M 4.8 - 97 km NE of Tadine, New Caledonia","97 km NE of Tadine, New Caledonia",-21.0058,168.6238,exact,valid,4.8,2026-09-26 09:08:05.869000+00:00,4.8
+USGS,earthquake,"M 4.8 - 78 km ENE of Tadine, New Caledonia","78 km ENE of Tadine, New Caledonia",-21.182,168.5301,exact,valid,4.8,2026-09-26 09:10:31.027000+00:00,4.8
+USGS,earthquake,"M 4.9 - 73 km ENE of Tadine, New Caledonia","73 km ENE of Tadine, New Caledonia",-21.2105,168.4957,exact,valid,4.9,2026-09-26 10:21:05.896000+00:00,4.9
+USGS,earthquake,"M 4.7 - 73 km ENE of Tadine, New Caledonia","73 km ENE of Tadine, New Caledonia",-21.2646,168.5179,exact,valid,4.7,2026-09-26 12:11:01.897000+00:00,4.7
+USGS,earthquake,"M 5.0 - 76 km NE of Tadine, New Caledonia","76 km NE of Tadine, New Caledonia",-21.1281,168.4681,exact,valid,5.0,2026-09-26 12:14:20.648000+00:00,5.0
+USGS,earthquake,"M 5.2 - 58 km NE of Tadine, New Caledonia","58 km NE of Tadine, New Caledonia",-21.2176,168.3226,exact,valid,5.2,2026-09-26 12:14:58.406000+00:00,5.2
+USGS,earthquake,"M 4.8 - 83 km NE of Tadine, New Caledonia","83 km NE of Tadine, New Caledonia",-21.0512,168.4849,exact,valid,4.8,2026-09-26 13:48:49.760000+00:00,4.8
+USGS,earthquake,"M 5.0 - 78 km ENE of Tadine, New Caledonia","78 km ENE of Tadine, New Caledonia",-21.268,168.5731,exact,valid,5.0,2026-09-26 15:01:36.315000+00:00,5.0
+USGS,earthquake,"M 4.8 - 72 km E of Tadine, New Caledonia","72 km E of Tadine, New Caledonia",-21.4649,168.5787,exact,valid,4.8,2026-09-26 16:06:48.430000+00:00,4.8
+USGS,earthquake,"M 4.8 - 81 km ENE of Tadine, New Caledonia","81 km ENE of Tadine, New Caledonia",-21.3737,168.6475,exact,valid,4.8,2026-09-26 18:25:23.615000+00:00,4.8
+USGS,earthquake,"M 4.5 - 80 km ENE of Tadine, New Caledonia","80 km ENE of Tadine, New Caledonia",-21.3519,168.6277,exact,valid,4.5,2026-09-26 19:33:55.065000+00:00,4.5
+USGS,earthquake,"M 5.0 - 61 km ENE of Tadine, New Caledonia","61 km ENE of Tadine, New Caledonia",-21.4298,168.4566,exact,valid,5.0,2026-09-27 01:18:25.822000+00:00,5.0
+USGS,earthquake,"M 5.1 - 90 km ENE of Tadine, New Caledonia","90 km ENE of Tadine, New Caledonia",-21.2857,168.7073,exact,valid,5.1,2026-09-27 02:22:10.562000+00:00,5.1
+USGS,earthquake,"M 4.6 - 102 km ENE of Tadine, New Caledonia","102 km ENE of Tadine, New Caledonia",-21.3015,168.8338,exact,valid,4.6,2026-09-27 19:05:12.429000+00:00,4.6
+USGS,earthquake,"M 4.8 - 80 km E of Tadine, New Caledonia","80 km E of Tadine, New Caledonia",-21.4457,168.6452,exact,valid,4.8,2026-09-28 00:47:33.083000+00:00,4.8
+USGS,earthquake,"M 4.7 - 59 km NE of Tadine, New Caledonia","59 km NE of Tadine, New Caledonia",-21.1166,168.2188,exact,valid,4.7,2026-09-28 03:15:54.201000+00:00,4.7
+USGS,earthquake,"M 5.3 - 60 km NE of Tadine, New Caledonia","60 km NE of Tadine, New Caledonia",-21.2245,168.3545,exact,valid,5.3,2026-09-28 03:25:06.893000+00:00,5.3
+USGS,earthquake,"M 5.1 - 78 km ENE of Tadine, New Caledonia","78 km ENE of Tadine, New Caledonia",-21.2065,168.5459,exact,valid,5.1,2026-09-28 05:28:08.891000+00:00,5.1
+USGS,earthquake,"M 4.6 - 63 km ENE of Tadine, New Caledonia","63 km ENE of Tadine, New Caledonia",-21.2372,168.3953,exact,valid,4.6,2026-09-28 05:42:21.379000+00:00,4.6
+USGS,earthquake,"M 4.9 - 39 km ENE of Tadine, New Caledonia","39 km ENE of Tadine, New Caledonia",-21.3968,168.2294,exact,valid,4.9,2026-09-28 05:42:32.024000+00:00,4.9
+USGS,earthquake,"M 5.2 - 67 km ENE of Tadine, New Caledonia","67 km ENE of Tadine, New Caledonia",-21.2247,168.4274,exact,valid,5.2,2026-09-28 05:45:29.689000+00:00,5.2
+USGS,earthquake,"M 5.3 - 76 km NE of Tadine, New Caledonia","76 km NE of Tadine, New Caledonia",-21.0716,168.4092,exact,valid,5.3,2026-09-29 03:23:54.418000+00:00,5.3
+USGS,earthquake,"M 5.0 - 77 km ENE of Tadine, New Caledonia","77 km ENE of Tadine, New Caledonia",-21.3447,168.5924,exact,valid,5.0,2026-09-29 10:42:57.409000+00:00,5.0
+USGS,earthquake,"M 4.8 - 75 km NE of Tadine, New Caledonia","75 km NE of Tadine, New Caledonia",-21.0085,168.3284,exact,valid,4.8,2026-09-30 01:17:47.844000+00:00,4.8
+USGS,earthquake,"M 5.0 - 83 km NE of Tadine, New Caledonia","83 km NE of Tadine, New Caledonia",-20.988,168.4237,exact,valid,5.0,2026-09-30 06:50:03.339000+00:00,5.0

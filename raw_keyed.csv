@@ -1,0 +1,21 @@
+source,title,event_type,location,lat,lon,severity,timestamp
+Open-Meteo,"Weather Advisory: Kochi (Rain: 13.3mm, Wind: 11.5km/h)",other,"Kochi, India",9.93,76.26,13.3,2024-07-01
+Open-Meteo,"Weather Advisory: Kochi (Rain: 3.1mm, Wind: 12.8km/h)",other,"Kochi, India",9.93,76.26,3.1,2024-07-02
+Open-Meteo,"Weather Advisory: Kochi (Rain: 9.3mm, Wind: 14.0km/h)",other,"Kochi, India",9.93,76.26,9.3,2024-07-03
+Open-Meteo,"Weather Advisory: Kochi (Rain: 14.4mm, Wind: 13.3km/h)",other,"Kochi, India",9.93,76.26,14.4,2024-07-04
+Open-Meteo,"Weather Advisory: Kochi (Rain: 5.9mm, Wind: 13.8km/h)",other,"Kochi, India",9.93,76.26,5.9,2024-07-05
+Open-Meteo,"Weather Advisory: Guwahati (Rain: 57.2mm, Wind: 12.3km/h)",flood,"Guwahati, India",26.14,91.73,57.2,2024-07-01
+Open-Meteo,"Weather Advisory: Guwahati (Rain: 27.7mm, Wind: 11.6km/h)",flood,"Guwahati, India",26.14,91.73,27.7,2024-07-02
+Open-Meteo,"Weather Advisory: Guwahati (Rain: 26.3mm, Wind: 8.7km/h)",flood,"Guwahati, India",26.14,91.73,26.3,2024-07-03
+Open-Meteo,"Weather Advisory: Guwahati (Rain: 18.0mm, Wind: 4.7km/h)",other,"Guwahati, India",26.14,91.73,18.0,2024-07-04
+Open-Meteo,"Weather Advisory: Guwahati (Rain: 14.0mm, Wind: 8.0km/h)",other,"Guwahati, India",26.14,91.73,14.0,2024-07-05
+Open-Meteo,"Weather Advisory: Bhubaneswar (Rain: 2.3mm, Wind: 20.2km/h)",other,"Bhubaneswar, India",20.29,85.82,2.3,2024-07-01
+Open-Meteo,"Weather Advisory: Bhubaneswar (Rain: 1.3mm, Wind: 16.9km/h)",other,"Bhubaneswar, India",20.29,85.82,1.3,2024-07-02
+Open-Meteo,"Weather Advisory: Bhubaneswar (Rain: 14.1mm, Wind: 14.6km/h)",other,"Bhubaneswar, India",20.29,85.82,14.1,2024-07-03
+Open-Meteo,"Weather Advisory: Bhubaneswar (Rain: 13.8mm, Wind: 18.0km/h)",other,"Bhubaneswar, India",20.29,85.82,13.8,2024-07-04
+Open-Meteo,"Weather Advisory: Bhubaneswar (Rain: 2.7mm, Wind: 20.8km/h)",other,"Bhubaneswar, India",20.29,85.82,2.7,2024-07-05
+Open-Meteo,"Weather Advisory: Delhi (Rain: 11.5mm, Wind: 11.8km/h)",other,"Delhi, India",28.61,77.2,11.5,2024-07-01
+Open-Meteo,"Weather Advisory: Delhi (Rain: 14.1mm, Wind: 14.9km/h)",other,"Delhi, India",28.61,77.2,14.1,2024-07-02
+Open-Meteo,"Weather Advisory: Delhi (Rain: 2.5mm, Wind: 16.1km/h)",other,"Delhi, India",28.61,77.2,2.5,2024-07-03
+Open-Meteo,"Weather Advisory: Delhi (Rain: 7.3mm, Wind: 11.3km/h)",other,"Delhi, India",28.61,77.2,7.3,2024-07-04
+Open-Meteo,"Weather Advisory: Delhi (Rain: 0.7mm, Wind: 16.2km/h)",other,"Delhi, India",28.61,77.2,0.7,2024-07-05

@@ -1,0 +1,5 @@
+city,weather_condition,temp_c,humidity,wind_speed,lat,lon,timestamp
+Kochi,light rain,25.4,93,1.1,9.93,76.26,2026-10-04 17:30:03.354765+00:00
+Guwahati,scattered clouds,26.2,97,1.29,26.14,91.73,2026-10-04 17:30:04.507160+00:00
+Bhubaneswar,clear sky,28.0,80,1.88,20.29,85.82,2026-10-04 17:30:05.669686+00:00
+Delhi,clear sky,27.8,55,2.52,28.61,77.2,2026-10-04 17:30:06.846238+00:00
