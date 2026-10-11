@@ -1,0 +1,144 @@
+import requests
+from bs4 import BeautifulSoup
+
+print("=" * 60)
+print("Activity 4: Download HTML Source Code")
+print("=" * 60)
+
+url = "https://books.toscrape.com"
+response = requests.get(url)
+
+print("HTTP Status Code :", response.status_code)
+print("\nFirst 500 Characters of HTML:\n")
+print(response.text[:500])
+
+
+print("\n" + "=" * 60)
+print("Activity 5: Parse HTML")
+print("=" * 60)
+
+soup = BeautifulSoup(response.text, "html.parser")
+
+page_title = soup.title.text
+main_heading = soup.find("h1").text
+
+print("Page Title :", page_title)
+print("Main Heading :", main_heading)
+
+
+print("\n" + "=" * 60)
+print("Activity 6: Extract Single Elements")
+print("=" * 60)
+
+page_title = soup.find("title").text
+first_heading = soup.find("h1").text
+first_paragraph = soup.find("p").text.strip()
+first_link = soup.find("a")["href"]
+
+print("Page Title :", page_title)
+print("First Heading :", first_heading)
+print("First Paragraph :", first_paragraph)
+print("First Hyperlink :", first_link)
+
+
+print("\n" + "=" * 60)
+print("Activity 7: Extract Multiple Elements")
+print("=" * 60)
+
+paragraphs = soup.find_all("p")
+
+print("\nAll Paragraph Tags:\n")
+
+for p in paragraphs:
+    print(p.text.strip())
+
+links = soup.find_all("a")
+
+print("\nAll Hyperlinks:\n")
+
+for link in links:
+    href = link.get("href")
+    if href:
+        print(href)
+
+print("\nTotal Paragraph Tags :", len(paragraphs))
+
+
+print("\n" + "=" * 60)
+print("Activity 8: First Book Details")
+print("=" * 60)
+
+first_book = soup.find("article", class_="product_pod")
+
+title = first_book.h3.a["title"]
+price = first_book.find("p", class_="price_color").text
+rating = first_book.find("p", class_="star-rating")["class"][1]
+availability = first_book.find(
+    "p",
+    class_="instock availability"
+).text.strip()
+
+image_url = url + "/" + first_book.find("img")["src"].replace("../", "")
+book_link = url + "/" + first_book.h3.a["href"]
+
+print("Book Title :", title)
+print("Price :", price)
+print("Rating :", rating)
+print("Availability :", availability)
+print("Image URL :", image_url)
+print("Book Link :", book_link)
+
+
+print("\n" + "=" * 60)
+print("Activity 9: Details of All Books")
+print("=" * 60)
+
+books = soup.find_all("article", class_="product_pod")
+count = 0
+
+for book in books:
+    count += 1
+
+    title = book.h3.a["title"]
+    price = book.find("p", class_="price_color").text
+    rating = book.find("p", class_="star-rating")["class"][1]
+    availability = book.find(
+        "p",
+        class_="instock availability"
+    ).text.strip()
+
+    print("-" * 50)
+    print("Book", count)
+    print("Title :", title)
+    print("Price :", price)
+    print("Rating :", rating)
+    print("Availability :", availability)
+
+
+print("\n" + "=" * 60)
+print("Activity 10: Observation")
+print("=" * 60)
+
+print("Number of Books Extracted :", len(books))
+
+print("\nHTML Tags Used:")
+print("1. <title>")
+print("2. <h1>")
+print("3. <p>")
+print("4. <a>")
+print("5. <article>")
+print("6. <img>")
+
+print("\nAttributes Used:")
+print("1. class")
+print("2. href")
+print("3. src")
+print("4. title")
+
+print("\nFunctions Used:")
+print("1. find()")
+print("2. find_all()")
+
+print("=" * 60)
+print("Experiment Completed Successfully")
+print("=" * 60)
